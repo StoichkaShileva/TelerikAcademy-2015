@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 14. Current Date and Time\bin\Debug\Problem_14.Current_Date_and_Time.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 14. Current Date and Time\bin\Debug\Problem_14.Current_Date_and_Time.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 14. Current Date and Time\bin\Debug\Problem_14.Current_Date_and_Time.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 14. Current Date and Time\obj\Debug\Problem_14.Current_Date_and_Time.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 14. Current Date and Time\obj\Debug\Problem_14.Current_Date_and_Time.pdb

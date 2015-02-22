@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 2. Print Company Information\bin\Debug\Problem_2.Print_Company_Information.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 2. Print Company Information\obj\Debug\Problem_2.Print_Company_Information.pdb

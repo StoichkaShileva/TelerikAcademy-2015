@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 4. Binary search\bin\Debug\Problem_4.Binary_search.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 4. Binary search\bin\Debug\Problem_4.Binary_search.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 4. Binary search\bin\Debug\Problem_4.Binary_search.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 4. Binary search\obj\Debug\Problem 4. Binary search.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 4. Binary search\obj\Debug\Problem_4.Binary_search.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 4. Binary search\obj\Debug\Problem_4.Binary_search.pdb

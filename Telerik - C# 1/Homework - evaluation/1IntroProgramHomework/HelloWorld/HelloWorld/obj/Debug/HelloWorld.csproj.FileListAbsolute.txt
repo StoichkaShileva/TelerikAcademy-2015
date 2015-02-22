@@ -1,0 +1,12 @@
+c:\users\joro\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\joro\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\joro\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\joro\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Joro\Documents\introprogramming\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Joro\Documents\introprogramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Joro\Documents\introprogramming\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

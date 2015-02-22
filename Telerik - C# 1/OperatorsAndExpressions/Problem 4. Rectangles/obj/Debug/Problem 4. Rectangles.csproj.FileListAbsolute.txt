@@ -1,0 +1,5 @@
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe.config
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 4. Rectangles\bin\Debug\Problem_4.Rectangles.pdb
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 4. Rectangles\obj\Debug\Problem_4.Rectangles.pdb

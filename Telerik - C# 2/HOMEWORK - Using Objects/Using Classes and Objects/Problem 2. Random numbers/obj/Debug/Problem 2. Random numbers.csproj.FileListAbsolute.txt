@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 2. Random numbers\bin\Debug\Problem_2.Random_numbers.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 2. Random numbers\bin\Debug\Problem_2.Random_numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 2. Random numbers\bin\Debug\Problem_2.Random_numbers.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 2. Random numbers\obj\Debug\Problem_2.Random_numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 2. Random numbers\obj\Debug\Problem_2.Random_numbers.pdb

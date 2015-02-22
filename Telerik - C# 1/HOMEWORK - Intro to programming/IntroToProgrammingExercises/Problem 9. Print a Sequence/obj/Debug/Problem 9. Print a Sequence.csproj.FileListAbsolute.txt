@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 9. Print a Sequence\bin\Debug\Problem_9.Print_a_Sequence.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 9. Print a Sequence\bin\Debug\Problem_9.Print_a_Sequence.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 9. Print a Sequence\bin\Debug\Problem_9.Print_a_Sequence.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 9. Print a Sequence\obj\Debug\Problem_9.Print_a_Sequence.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 9. Print a Sequence\obj\Debug\Problem_9.Print_a_Sequence.pdb

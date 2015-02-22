@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 15. Prime numbers\bin\Debug\Problem_15.Prime_numbers.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 15. Prime numbers\bin\Debug\Problem_15.Prime_numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 15. Prime numbers\bin\Debug\Problem_15.Prime_numbers.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 15. Prime numbers\obj\Debug\Problem_15.Prime_numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 15. Prime numbers\obj\Debug\Problem_15.Prime_numbers.pdb

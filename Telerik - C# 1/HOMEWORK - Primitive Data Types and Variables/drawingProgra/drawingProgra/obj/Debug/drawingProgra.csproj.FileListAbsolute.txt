@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\drawingProgra\drawingProgra\bin\Debug\drawingProgra.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\drawingProgra\drawingProgra\bin\Debug\drawingProgra.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\drawingProgra\drawingProgra\bin\Debug\drawingProgra.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\drawingProgra\drawingProgra\obj\Debug\drawingProgra.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\drawingProgra\drawingProgra\obj\Debug\drawingProgra.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\drawingProgra\drawingProgra\obj\Debug\drawingProgra.pdb

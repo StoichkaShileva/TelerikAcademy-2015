@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\firstTask\bin\Debug\firstTask.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\firstTask\bin\Debug\firstTask.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\firstTask\bin\Debug\firstTask.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\firstTask\obj\Debug\firstTask.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\firstTask\obj\Debug\firstTask.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\firstTask\obj\Debug\firstTask.pdb

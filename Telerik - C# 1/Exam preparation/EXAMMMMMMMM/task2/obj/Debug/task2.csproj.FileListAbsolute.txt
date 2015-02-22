@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\task2\bin\Debug\task2.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\task2\bin\Debug\task2.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\task2\bin\Debug\task2.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\task2\obj\Debug\task2.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\EXAMMMMMMMM\task2\obj\Debug\task2.pdb

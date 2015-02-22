@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 3 – Ones and Zeros\Problem 3 – Ones and Zeros\bin\Debug\Problem 3 – Ones and Zeros.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 3 – Ones and Zeros\Problem 3 – Ones and Zeros\bin\Debug\Problem 3 – Ones and Zeros.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 3 – Ones and Zeros\Problem 3 – Ones and Zeros\bin\Debug\Problem 3 – Ones and Zeros.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 3 – Ones and Zeros\Problem 3 – Ones and Zeros\obj\Debug\Problem 3 – Ones and Zeros.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 3 – Ones and Zeros\Problem 3 – Ones and Zeros\obj\Debug\Problem 3 – Ones and Zeros.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 3 – Ones and Zeros\Problem 3 – Ones and Zeros\obj\Debug\Problem 3 – Ones and Zeros.pdb

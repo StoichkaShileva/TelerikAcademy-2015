@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 1. Say Hello\bin\Debug\Problem_1.Say_Hello.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 1. Say Hello\bin\Debug\Problem_1.Say_Hello.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 1. Say Hello\bin\Debug\Problem_1.Say_Hello.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 1. Say Hello\obj\Debug\Problem 1. Say Hello.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 1. Say Hello\obj\Debug\Problem_1.Say_Hello.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 1. Say Hello\obj\Debug\Problem_1.Say_Hello.pdb

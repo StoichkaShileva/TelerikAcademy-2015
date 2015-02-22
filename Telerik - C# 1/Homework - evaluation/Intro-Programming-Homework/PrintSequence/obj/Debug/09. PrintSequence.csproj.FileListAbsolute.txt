@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\Intro-Programming-Homework\PrintSequence\bin\Debug\PrintSequence.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\Intro-Programming-Homework\PrintSequence\obj\Debug\09. PrintSequence.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\Intro-Programming-Homework\PrintSequence\obj\Debug\PrintSequence.pdb

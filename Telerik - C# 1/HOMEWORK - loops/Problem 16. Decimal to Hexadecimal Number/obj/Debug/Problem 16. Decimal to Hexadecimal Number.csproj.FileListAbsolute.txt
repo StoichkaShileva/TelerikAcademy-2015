@@ -1,0 +1,12 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem 16. Decimal to Hexadecimal Number.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\bin\Debug\Problem_16.Decimal_to_Hexadecimal_Number.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\Problem 16. Decimal to Hexadecimal Number\obj\Debug\Problem 16. Decimal to Hexadecimal Number.csprojResolveAssemblyReference.cache

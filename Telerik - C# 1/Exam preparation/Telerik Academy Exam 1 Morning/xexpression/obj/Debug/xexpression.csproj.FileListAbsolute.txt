@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Telerik Academy Exam 1 Morning\xexpression\bin\Debug\xexpression.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Telerik Academy Exam 1 Morning\xexpression\obj\Debug\xexpression.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Telerik Academy Exam 1 Morning\xexpression\bin\Debug\xexpression.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Telerik Academy Exam 1 Morning\xexpression\bin\Debug\xexpression.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Telerik Academy Exam 1 Morning\xexpression\obj\Debug\xexpression.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Telerik Academy Exam 1 Morning\xexpression\obj\Debug\xexpression.pdb

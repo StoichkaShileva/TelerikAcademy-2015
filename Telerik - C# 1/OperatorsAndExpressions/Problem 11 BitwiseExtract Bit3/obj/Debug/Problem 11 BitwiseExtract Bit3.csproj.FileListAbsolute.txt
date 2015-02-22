@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 11 BitwiseExtract Bit3\bin\Debug\Problem 11 BitwiseExtract Bit3.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 11 BitwiseExtract Bit3\bin\Debug\Problem 11 BitwiseExtract Bit3.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 11 BitwiseExtract Bit3\bin\Debug\Problem 11 BitwiseExtract Bit3.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 11 BitwiseExtract Bit3\obj\Debug\Problem 11 BitwiseExtract Bit3.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 11 BitwiseExtract Bit3\obj\Debug\Problem 11 BitwiseExtract Bit3.pdb

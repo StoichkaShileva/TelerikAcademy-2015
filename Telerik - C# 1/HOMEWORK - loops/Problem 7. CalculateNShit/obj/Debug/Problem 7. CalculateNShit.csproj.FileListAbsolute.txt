@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 7. CalculateNShit\bin\Debug\Problem_7.CalculateNShit.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 7. CalculateNShit\bin\Debug\Problem_7.CalculateNShit.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 7. CalculateNShit\bin\Debug\Problem_7.CalculateNShit.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 7. CalculateNShit\obj\Debug\Problem 7. CalculateNShit.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 7. CalculateNShit\obj\Debug\Problem_7.CalculateNShit.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 7. CalculateNShit\obj\Debug\Problem_7.CalculateNShit.pdb

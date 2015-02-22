@@ -1,0 +1,12 @@
+c:\users\joro\documents\visual studio 2012\Projects\Sequences\Sequences\bin\Debug\Sequences.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\Sequences\Sequences\bin\Debug\Sequences.exe
+c:\users\joro\documents\visual studio 2012\Projects\Sequences\Sequences\bin\Debug\Sequences.pdb
+c:\users\joro\documents\visual studio 2012\Projects\Sequences\Sequences\obj\Debug\Sequences.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\Sequences\Sequences\obj\Debug\Sequences.exe
+c:\users\joro\documents\visual studio 2012\Projects\Sequences\Sequences\obj\Debug\Sequences.pdb
+C:\Users\Joro\Documents\introprogramming\Sequences\Sequences\bin\Debug\Sequences.exe.config
+C:\Users\Joro\Documents\introprogramming\Sequences\Sequences\obj\Debug\Sequences.exe
+C:\Users\Joro\Documents\introprogramming\Sequences\Sequences\obj\Debug\Sequences.pdb
+C:\Users\Joro\Documents\introprogramming\Sequences\Sequences\bin\Debug\Sequences.exe
+C:\Users\Joro\Documents\introprogramming\Sequences\Sequences\bin\Debug\Sequences.pdb
+C:\Users\Joro\Documents\introprogramming\Sequences\Sequences\obj\Debug\Sequences.csprojResolveAssemblyReference.cache

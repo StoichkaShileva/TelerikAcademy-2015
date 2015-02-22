@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 8. Digit as Word\bin\Debug\Problem_8.Digit_as_Word.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 8. Digit as Word\bin\Debug\Problem_8.Digit_as_Word.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 8. Digit as Word\bin\Debug\Problem_8.Digit_as_Word.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 8. Digit as Word\obj\Debug\Problem_8.Digit_as_Word.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 8. Digit as Word\obj\Debug\Problem_8.Digit_as_Word.pdb

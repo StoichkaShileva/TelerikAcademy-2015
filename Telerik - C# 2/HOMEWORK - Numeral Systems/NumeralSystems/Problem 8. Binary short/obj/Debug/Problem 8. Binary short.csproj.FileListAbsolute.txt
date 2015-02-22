@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 8. Binary short\bin\Debug\Problem_8.Binary_short.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 8. Binary short\bin\Debug\Problem_8.Binary_short.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 8. Binary short\bin\Debug\Problem_8.Binary_short.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 8. Binary short\obj\Debug\Problem_8.Binary_short.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 8. Binary short\obj\Debug\Problem_8.Binary_short.pdb

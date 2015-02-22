@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 9. Trapezoids\obj\Debug\Problem 9. Trapezoids.csprojResolveAssemblyReference.cache

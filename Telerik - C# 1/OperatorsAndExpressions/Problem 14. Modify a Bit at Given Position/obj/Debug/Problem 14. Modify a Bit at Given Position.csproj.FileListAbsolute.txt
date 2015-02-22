@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 14. Modify a Bit at Given Position\bin\Debug\Problem_14.Modify_a_Bit_at_Given_Position.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 14. Modify a Bit at Given Position\bin\Debug\Problem_14.Modify_a_Bit_at_Given_Position.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 14. Modify a Bit at Given Position\bin\Debug\Problem_14.Modify_a_Bit_at_Given_Position.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 14. Modify a Bit at Given Position\obj\Debug\Problem_14.Modify_a_Bit_at_Given_Position.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 14. Modify a Bit at Given Position\obj\Debug\Problem_14.Modify_a_Bit_at_Given_Position.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 14. Modify a Bit at Given Position\obj\Debug\Problem 14. Modify a Bit at Given Position.csprojResolveAssemblyReference.cache

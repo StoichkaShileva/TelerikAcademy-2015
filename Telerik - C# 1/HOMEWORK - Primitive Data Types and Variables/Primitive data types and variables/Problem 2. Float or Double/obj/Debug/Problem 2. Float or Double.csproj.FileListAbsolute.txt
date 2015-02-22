@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 2. Float or Double\obj\Debug\Problem 2. Float or Double.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb

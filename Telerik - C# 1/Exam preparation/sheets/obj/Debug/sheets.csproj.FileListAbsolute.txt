@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\sheets\bin\Debug\sheets.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\sheets\bin\Debug\sheets.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\sheets\bin\Debug\sheets.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\sheets\obj\Debug\sheets.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\sheets\obj\Debug\sheets.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\sheets\obj\Debug\sheets.pdb

@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 10. Odd and Even Product\bin\Debug\Problem_10.Odd_and_Even_Product.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 10. Odd and Even Product\obj\Debug\Problem 10. Odd and Even Product.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 10. Odd and Even Product\obj\Debug\Problem_10.Odd_and_Even_Product.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 10. Odd and Even Product\obj\Debug\Problem_10.Odd_and_Even_Product.pdb

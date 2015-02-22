@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2 – Angry Female GPS\Problem 2 – Angry Female GPS\bin\Debug\Problem 2 – Angry Female GPS.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2 – Angry Female GPS\Problem 2 – Angry Female GPS\bin\Debug\Problem 2 – Angry Female GPS.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2 – Angry Female GPS\Problem 2 – Angry Female GPS\bin\Debug\Problem 2 – Angry Female GPS.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2 – Angry Female GPS\Problem 2 – Angry Female GPS\obj\Debug\Problem 2 – Angry Female GPS.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2 – Angry Female GPS\Problem 2 – Angry Female GPS\obj\Debug\Problem 2 – Angry Female GPS.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2 – Angry Female GPS\Problem 2 – Angry Female GPS\obj\Debug\Problem 2 – Angry Female GPS.pdb

@@ -1,0 +1,5 @@
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe.config
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.pdb
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 3. Divide by 7 and 5\obj\Debug\Problem_3.Divide_by_7_and_5.pdb

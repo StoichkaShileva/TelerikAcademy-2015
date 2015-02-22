@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 14. Integer calculations\bin\Debug\Problem_14.Integer_calculations.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 14. Integer calculations\bin\Debug\Problem_14.Integer_calculations.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 14. Integer calculations\bin\Debug\Problem_14.Integer_calculations.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 14. Integer calculations\obj\Debug\Problem 14. Integer calculations.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 14. Integer calculations\obj\Debug\Problem_14.Integer_calculations.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 14. Integer calculations\obj\Debug\Problem_14.Integer_calculations.pdb

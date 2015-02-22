@@ -1,0 +1,12 @@
+c:\users\joro\documents\visual studio 2012\Projects\ReformCode\ReformCode\bin\Debug\ReformCode.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\ReformCode\ReformCode\bin\Debug\ReformCode.exe
+c:\users\joro\documents\visual studio 2012\Projects\ReformCode\ReformCode\bin\Debug\ReformCode.pdb
+c:\users\joro\documents\visual studio 2012\Projects\ReformCode\ReformCode\obj\Debug\ReformCode.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\ReformCode\ReformCode\obj\Debug\ReformCode.exe
+c:\users\joro\documents\visual studio 2012\Projects\ReformCode\ReformCode\obj\Debug\ReformCode.pdb
+C:\Users\Joro\Documents\introprogramming\ReformCode\ReformCode\bin\Debug\ReformCode.exe.config
+C:\Users\Joro\Documents\introprogramming\ReformCode\ReformCode\obj\Debug\ReformCode.exe
+C:\Users\Joro\Documents\introprogramming\ReformCode\ReformCode\obj\Debug\ReformCode.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\ReformCode\ReformCode\bin\Debug\ReformCode.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\ReformCode\ReformCode\obj\Debug\ReformCode.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\ReformCode\ReformCode\obj\Debug\ReformCode.pdb

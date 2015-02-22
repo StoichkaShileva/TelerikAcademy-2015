@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 1. Sum of 3 Numbers\bin\Debug\Problem_1.Sum_of_3_Numbers.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 1. Sum of 3 Numbers\obj\Debug\Problem 1. Sum of 3 Numbers.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 1. Sum of 3 Numbers\obj\Debug\Problem_1.Sum_of_3_Numbers.pdb

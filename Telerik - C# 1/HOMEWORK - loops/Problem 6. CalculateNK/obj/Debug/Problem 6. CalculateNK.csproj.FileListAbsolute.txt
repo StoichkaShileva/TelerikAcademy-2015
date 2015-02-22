@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 6. CalculateNK\bin\Debug\Problem_6.CalculateNK.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 6. CalculateNK\bin\Debug\Problem_6.CalculateNK.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 6. CalculateNK\bin\Debug\Problem_6.CalculateNK.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 6. CalculateNK\obj\Debug\Problem_6.CalculateNK.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 6. CalculateNK\obj\Debug\Problem_6.CalculateNK.pdb

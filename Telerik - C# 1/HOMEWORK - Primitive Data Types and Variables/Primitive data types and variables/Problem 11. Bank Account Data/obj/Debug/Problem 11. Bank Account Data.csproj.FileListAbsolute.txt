@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 11. Bank Account Data\obj\Debug\Problem_11.Bank_Account_Data.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 11. Bank Account Data\obj\Debug\Problem_11.Bank_Account_Data.pdb

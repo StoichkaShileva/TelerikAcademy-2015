@@ -1,0 +1,5 @@
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.exe.config
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 2. Gravitation on the Moon\bin\Debug\Problem_2.Gravitation_on_the_Moon.pdb
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 2. Gravitation on the Moon\obj\Debug\Problem_2.Gravitation_on_the_Moon.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 2. Gravitation on the Moon\obj\Debug\Problem_2.Gravitation_on_the_Moon.pdb

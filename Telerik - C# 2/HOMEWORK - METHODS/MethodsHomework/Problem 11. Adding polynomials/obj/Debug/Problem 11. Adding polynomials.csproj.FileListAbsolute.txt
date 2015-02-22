@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 11. Adding polynomials\bin\Debug\Problem_11.Adding_polynomials.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 11. Adding polynomials\bin\Debug\Problem_11.Adding_polynomials.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 11. Adding polynomials\bin\Debug\Problem_11.Adding_polynomials.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 11. Adding polynomials\obj\Debug\Problem 11. Adding polynomials.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 11. Adding polynomials\obj\Debug\Problem_11.Adding_polynomials.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 11. Adding polynomials\obj\Debug\Problem_11.Adding_polynomials.pdb

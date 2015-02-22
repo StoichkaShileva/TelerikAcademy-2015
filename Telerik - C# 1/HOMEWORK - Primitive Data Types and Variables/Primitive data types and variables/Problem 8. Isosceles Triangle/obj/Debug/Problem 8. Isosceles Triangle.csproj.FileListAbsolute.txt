@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.pdb

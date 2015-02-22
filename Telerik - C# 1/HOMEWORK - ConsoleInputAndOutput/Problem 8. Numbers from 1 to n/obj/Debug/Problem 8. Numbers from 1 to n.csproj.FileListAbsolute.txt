@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 8. Numbers from 1 to n\bin\Debug\Problem_8.Numbers_from_1_to_n.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 8. Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 8. Numbers from 1 to n\obj\Debug\Problem_8.Numbers_from_1_to_n.pdb

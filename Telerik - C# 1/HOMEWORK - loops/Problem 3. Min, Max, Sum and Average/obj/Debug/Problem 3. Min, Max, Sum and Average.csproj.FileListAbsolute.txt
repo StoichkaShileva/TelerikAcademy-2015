@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 3. Min, Max, Sum and Average\bin\Debug\Problem_3.Min__Max__Sum_and_Average.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 3. Min, Max, Sum and Average\bin\Debug\Problem_3.Min__Max__Sum_and_Average.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 3. Min, Max, Sum and Average\bin\Debug\Problem_3.Min__Max__Sum_and_Average.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 3. Min, Max, Sum and Average\obj\Debug\Problem_3.Min__Max__Sum_and_Average.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 3. Min, Max, Sum and Average\obj\Debug\Problem_3.Min__Max__Sum_and_Average.pdb

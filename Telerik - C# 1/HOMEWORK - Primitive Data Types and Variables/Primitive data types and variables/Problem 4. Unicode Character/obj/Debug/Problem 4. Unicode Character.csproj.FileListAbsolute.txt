@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 4. Unicode Character\obj\Debug\Problem 4. Unicode Character.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb

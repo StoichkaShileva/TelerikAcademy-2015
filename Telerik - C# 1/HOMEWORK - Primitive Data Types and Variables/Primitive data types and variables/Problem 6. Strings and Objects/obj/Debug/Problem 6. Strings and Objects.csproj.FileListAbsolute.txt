@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb

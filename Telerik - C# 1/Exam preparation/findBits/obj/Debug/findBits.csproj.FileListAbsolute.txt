@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\findBits\bin\Debug\findBits.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\findBits\bin\Debug\findBits.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\findBits\bin\Debug\findBits.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\findBits\obj\Debug\findBits.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\findBits\obj\Debug\findBits.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\findBits\obj\Debug\findBits.pdb

@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tsk\bin\Debug\tsk.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tsk\bin\Debug\tsk.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tsk\bin\Debug\tsk.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tsk\obj\Debug\tsk.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tsk\obj\Debug\tsk.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tsk\obj\Debug\tsk.pdb

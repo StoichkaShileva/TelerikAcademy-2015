@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 13. Binary to Decimal Number\bin\Debug\Problem_13.Binary_to_Decimal_Number.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 13. Binary to Decimal Number\bin\Debug\Problem_13.Binary_to_Decimal_Number.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 13. Binary to Decimal Number\bin\Debug\Problem_13.Binary_to_Decimal_Number.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 13. Binary to Decimal Number\obj\Debug\Problem 13. Binary to Decimal Number.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 13. Binary to Decimal Number\obj\Debug\Problem_13.Binary_to_Decimal_Number.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 13. Binary to Decimal Number\obj\Debug\Problem_13.Binary_to_Decimal_Number.pdb

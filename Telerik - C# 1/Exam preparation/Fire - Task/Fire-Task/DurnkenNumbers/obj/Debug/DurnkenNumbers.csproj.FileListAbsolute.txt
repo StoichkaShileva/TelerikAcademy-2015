@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\DurnkenNumbers\bin\Debug\DurnkenNumbers.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\DurnkenNumbers\bin\Debug\DurnkenNumbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\DurnkenNumbers\bin\Debug\DurnkenNumbers.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\DurnkenNumbers\obj\Debug\DurnkenNumbers.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\DurnkenNumbers\obj\Debug\DurnkenNumbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\DurnkenNumbers\obj\Debug\DurnkenNumbers.pdb

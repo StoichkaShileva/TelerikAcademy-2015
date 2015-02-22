@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Problem 4 - Eggcelent\Problem 1 – Peace of Cake\bin\Debug\Problem 1 – Peace of Cake.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Problem 4 - Eggcelent\Problem 1 – Peace of Cake\bin\Debug\Problem 1 – Peace of Cake.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Problem 4 - Eggcelent\Problem 1 – Peace of Cake\bin\Debug\Problem 1 – Peace of Cake.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Problem 4 - Eggcelent\Problem 1 – Peace of Cake\obj\Debug\Problem 1 – Peace of Cake.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Problem 4 - Eggcelent\Problem 1 – Peace of Cake\obj\Debug\Problem 1 – Peace of Cake.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Problem 4 - Eggcelent\Problem 1 – Peace of Cake\obj\Debug\Problem 1 – Peace of Cake.pdb

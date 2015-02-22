@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\TheHorror\bin\Debug\TheHorror.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\TheHorror\bin\Debug\TheHorror.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\TheHorror\bin\Debug\TheHorror.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\TheHorror\obj\Debug\TheHorror.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\TheHorror\obj\Debug\TheHorror.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\TheHorror\obj\Debug\TheHorror.csprojResolveAssemblyReference.cache

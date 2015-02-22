@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 2. Maximal sum\bin\Debug\Problem_2.Maximal_sum.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 2. Maximal sum\bin\Debug\Problem_2.Maximal_sum.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 2. Maximal sum\bin\Debug\Problem_2.Maximal_sum.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 2. Maximal sum\obj\Debug\Problem_2.Maximal_sum.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Multidimensional Arrays\MultidimensionalArraysHomework\Problem 2. Maximal sum\obj\Debug\Problem_2.Maximal_sum.pdb

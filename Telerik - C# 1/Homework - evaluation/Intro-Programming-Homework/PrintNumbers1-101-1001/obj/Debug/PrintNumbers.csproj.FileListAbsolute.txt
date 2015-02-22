@@ -1,0 +1,6 @@
+D:\CSharpProjects\Intro-Programming-Homework\PrintNumbers1-101-1001\bin\Debug\PrintNumbers1-101-1001.exe.config
+D:\CSharpProjects\Intro-Programming-Homework\PrintNumbers1-101-1001\bin\Debug\PrintNumbers1-101-1001.exe
+D:\CSharpProjects\Intro-Programming-Homework\PrintNumbers1-101-1001\bin\Debug\PrintNumbers1-101-1001.pdb
+D:\CSharpProjects\Intro-Programming-Homework\PrintNumbers1-101-1001\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+D:\CSharpProjects\Intro-Programming-Homework\PrintNumbers1-101-1001\obj\Debug\PrintNumbers1-101-1001.exe
+D:\CSharpProjects\Intro-Programming-Homework\PrintNumbers1-101-1001\obj\Debug\PrintNumbers1-101-1001.pdb

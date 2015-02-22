@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 7. One system to any other\bin\Debug\Problem_7.One_system_to_any_other.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 7. One system to any other\bin\Debug\Problem_7.One_system_to_any_other.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 7. One system to any other\bin\Debug\Problem_7.One_system_to_any_other.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 7. One system to any other\obj\Debug\Problem 7. One system to any other.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 7. One system to any other\obj\Debug\Problem_7.One_system_to_any_other.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 7. One system to any other\obj\Debug\Problem_7.One_system_to_any_other.pdb

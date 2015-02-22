@@ -1,0 +1,5 @@
+D:\CSharpProjects\Intro-Programming-Homework\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.exe.config
+D:\CSharpProjects\Intro-Programming-Homework\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.exe
+D:\CSharpProjects\Intro-Programming-Homework\PrintMyFirstAndLastName\bin\Debug\PrintMyFirstAndLastName.pdb
+D:\CSharpProjects\Intro-Programming-Homework\PrintMyFirstAndLastName\obj\Debug\PrintMyFirstAndLastName.exe
+D:\CSharpProjects\Intro-Programming-Homework\PrintMyFirstAndLastName\obj\Debug\PrintMyFirstAndLastName.pdb

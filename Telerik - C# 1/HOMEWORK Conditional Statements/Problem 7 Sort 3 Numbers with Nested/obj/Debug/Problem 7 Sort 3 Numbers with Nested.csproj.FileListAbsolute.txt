@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 7 Sort 3 Numbers with Nested\bin\Debug\Problem 7 Sort 3 Numbers with Nested.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 7 Sort 3 Numbers with Nested\bin\Debug\Problem 7 Sort 3 Numbers with Nested.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 7 Sort 3 Numbers with Nested\bin\Debug\Problem 7 Sort 3 Numbers with Nested.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 7 Sort 3 Numbers with Nested\obj\Debug\Problem 7 Sort 3 Numbers with Nested.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 7 Sort 3 Numbers with Nested\obj\Debug\Problem 7 Sort 3 Numbers with Nested.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 7 Sort 3 Numbers with Nested\obj\Debug\Problem 7 Sort 3 Numbers with Nested.pdb

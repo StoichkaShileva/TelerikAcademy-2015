@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\3-6-9\bin\Debug\3-6-9.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\3-6-9\bin\Debug\3-6-9.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\3-6-9\bin\Debug\3-6-9.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\3-6-9\obj\Debug\3-6-9.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\3-6-9\obj\Debug\3-6-9.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\2013Exam1\3-6-9\3-6-9\obj\Debug\3-6-9.pdb

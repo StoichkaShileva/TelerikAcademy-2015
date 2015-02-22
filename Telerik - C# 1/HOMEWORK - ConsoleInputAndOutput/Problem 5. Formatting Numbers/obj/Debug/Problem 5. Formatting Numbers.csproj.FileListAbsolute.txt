@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 5. Formatting Numbers\bin\Debug\Problem_5.Formatting_Numbers.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 5. Formatting Numbers\obj\Debug\Problem_5.Formatting_Numbers.pdb

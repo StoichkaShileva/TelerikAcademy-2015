@@ -1,0 +1,9 @@
+c:\users\joro\documents\visual studio 2012\Projects\PrintFirstLastName\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\PrintFirstLastName\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintFirstLastName\PrintFirstLastName\bin\Debug\PrintFirstLastName.pdb
+c:\users\joro\documents\visual studio 2012\Projects\PrintFirstLastName\PrintFirstLastName\obj\Debug\PrintFirstLastName.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\PrintFirstLastName\PrintFirstLastName\obj\Debug\PrintFirstLastName.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintFirstLastName\PrintFirstLastName\obj\Debug\PrintFirstLastName.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintFirstLastName\PrintFirstLastName\bin\Debug\PrintFirstLastName.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintFirstLastName\PrintFirstLastName\obj\Debug\PrintFirstLastName.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintFirstLastName\PrintFirstLastName\obj\Debug\PrintFirstLastName.pdb

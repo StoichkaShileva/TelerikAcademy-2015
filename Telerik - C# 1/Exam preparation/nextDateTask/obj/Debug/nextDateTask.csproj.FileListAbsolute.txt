@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\nextDateTask\bin\Debug\nextDateTask.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\nextDateTask\bin\Debug\nextDateTask.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\nextDateTask\bin\Debug\nextDateTask.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\nextDateTask\obj\Debug\nextDateTask.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\nextDateTask\obj\Debug\nextDateTask.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\nextDateTask\obj\Debug\nextDateTask.pdb

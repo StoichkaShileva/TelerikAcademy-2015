@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\fallingRocks\fallingRocks\bin\Debug\fallingRocks.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\fallingRocks\fallingRocks\bin\Debug\fallingRocks.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\fallingRocks\fallingRocks\bin\Debug\fallingRocks.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\fallingRocks\fallingRocks\obj\Debug\fallingRocks.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\fallingRocks\fallingRocks\obj\Debug\fallingRocks.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\fallingRocks\fallingRocks\obj\Debug\fallingRocks.pdb

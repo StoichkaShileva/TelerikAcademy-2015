@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 9. Frequent number\bin\Debug\Problem_9.Frequent_number.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 9. Frequent number\bin\Debug\Problem_9.Frequent_number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 9. Frequent number\bin\Debug\Problem_9.Frequent_number.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 9. Frequent number\obj\Debug\Problem 9. Frequent number.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 9. Frequent number\obj\Debug\Problem_9.Frequent_number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 9. Frequent number\obj\Debug\Problem_9.Frequent_number.pdb

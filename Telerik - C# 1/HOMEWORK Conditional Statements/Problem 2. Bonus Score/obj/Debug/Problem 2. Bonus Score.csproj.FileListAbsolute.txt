@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.pdb

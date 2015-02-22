@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 4 - Kaspichania Boats\Problem 4 - Kaspichania Boats\bin\Debug\Problem 4 - Kaspichania Boats.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 4 - Kaspichania Boats\Problem 4 - Kaspichania Boats\bin\Debug\Problem 4 - Kaspichania Boats.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 4 - Kaspichania Boats\Problem 4 - Kaspichania Boats\bin\Debug\Problem 4 - Kaspichania Boats.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 4 - Kaspichania Boats\Problem 4 - Kaspichania Boats\obj\Debug\Problem 4 - Kaspichania Boats.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 4 - Kaspichania Boats\Problem 4 - Kaspichania Boats\obj\Debug\Problem 4 - Kaspichania Boats.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 4 - Kaspichania Boats\Problem 4 - Kaspichania Boats\obj\Debug\Problem 4 - Kaspichania Boats.pdb

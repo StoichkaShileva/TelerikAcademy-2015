@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 1. Decimal to binary\bin\Debug\Problem_1.Decimal_to_binary.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 1. Decimal to binary\bin\Debug\Problem_1.Decimal_to_binary.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 1. Decimal to binary\bin\Debug\Problem_1.Decimal_to_binary.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 1. Decimal to binary\obj\Debug\Problem 1. Decimal to binary.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 1. Decimal to binary\obj\Debug\Problem_1.Decimal_to_binary.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 1. Decimal to binary\obj\Debug\Problem_1.Decimal_to_binary.pdb

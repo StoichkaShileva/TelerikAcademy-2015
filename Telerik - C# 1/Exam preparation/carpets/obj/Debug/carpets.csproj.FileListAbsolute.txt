@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\carpets\bin\Debug\carpets.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\carpets\bin\Debug\carpets.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\carpets\bin\Debug\carpets.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\carpets\obj\Debug\carpets.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\carpets\obj\Debug\carpets.pdb

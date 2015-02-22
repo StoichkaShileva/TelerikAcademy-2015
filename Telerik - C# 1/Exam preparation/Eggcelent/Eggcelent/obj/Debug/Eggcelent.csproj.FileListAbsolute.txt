@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Eggcelent\Eggcelent\bin\Debug\Eggcelent.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Eggcelent\Eggcelent\bin\Debug\Eggcelent.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Eggcelent\Eggcelent\bin\Debug\Eggcelent.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Eggcelent\Eggcelent\obj\Debug\Eggcelent.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Eggcelent\Eggcelent\obj\Debug\Eggcelent.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Eggcelent\Eggcelent\obj\Debug\Eggcelent.pdb

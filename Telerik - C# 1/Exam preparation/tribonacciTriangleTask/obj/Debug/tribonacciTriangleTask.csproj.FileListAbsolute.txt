@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tribonacciTriangleTask\bin\Debug\tribonacciTriangleTask.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tribonacciTriangleTask\bin\Debug\tribonacciTriangleTask.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tribonacciTriangleTask\bin\Debug\tribonacciTriangleTask.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tribonacciTriangleTask\obj\Debug\tribonacciTriangleTask.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\tribonacciTriangleTask\obj\Debug\tribonacciTriangleTask.pdb

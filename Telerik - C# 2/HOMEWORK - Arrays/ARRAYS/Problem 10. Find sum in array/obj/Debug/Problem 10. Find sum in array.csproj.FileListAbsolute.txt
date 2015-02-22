@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 10. Find sum in array\bin\Debug\Problem_10.Find_sum_in_array.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 10. Find sum in array\bin\Debug\Problem_10.Find_sum_in_array.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 10. Find sum in array\bin\Debug\Problem_10.Find_sum_in_array.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 10. Find sum in array\obj\Debug\Problem 10. Find sum in array.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 10. Find sum in array\obj\Debug\Problem_10.Find_sum_in_array.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 10. Find sum in array\obj\Debug\Problem_10.Find_sum_in_array.pdb

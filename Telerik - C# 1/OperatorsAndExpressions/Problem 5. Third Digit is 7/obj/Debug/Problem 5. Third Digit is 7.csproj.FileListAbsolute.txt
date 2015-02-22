@@ -1,0 +1,9 @@
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.exe.config
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.pdb
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 5. Third Digit is 7\obj\Debug\Problem_5.Third_Digit_is_7.exe
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 5. Third Digit is 7\obj\Debug\Problem_5.Third_Digit_is_7.pdb
+C:\Users\softwareacademy\Desktop\Tosev\OperatorsAndExpressions\Problem 5. Third Digit is 7\obj\Debug\Problem 5. Third Digit is 7.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 5. Third Digit is 7\bin\Debug\Problem_5.Third_Digit_is_7.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 5. Third Digit is 7\obj\Debug\Problem_5.Third_Digit_is_7.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 5. Third Digit is 7\obj\Debug\Problem_5.Third_Digit_is_7.pdb

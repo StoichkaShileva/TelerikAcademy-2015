@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\StringTesting\StringTesting\bin\Debug\StringTesting.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\StringTesting\StringTesting\bin\Debug\StringTesting.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\StringTesting\StringTesting\bin\Debug\StringTesting.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\StringTesting\StringTesting\obj\Debug\StringTesting.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\StringTesting\StringTesting\obj\Debug\StringTesting.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\StringTesting\StringTesting\obj\Debug\StringTesting.pdb

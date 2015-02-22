@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 3. Check for a Play Card\bin\Debug\Problem_3.Check_for_a_Play_Card.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 3. Check for a Play Card\bin\Debug\Problem_3.Check_for_a_Play_Card.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 3. Check for a Play Card\bin\Debug\Problem_3.Check_for_a_Play_Card.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 3. Check for a Play Card\obj\Debug\Problem_3.Check_for_a_Play_Card.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Homework Conditional Statements\Problem 3. Check for a Play Card\obj\Debug\Problem_3.Check_for_a_Play_Card.pdb

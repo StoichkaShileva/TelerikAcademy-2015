@@ -1,0 +1,5 @@
+D:\CSharpProjects\Intro-Programming-Homework\SquareRootOf12345\bin\Debug\SquareRootOf12345.exe.config
+D:\CSharpProjects\Intro-Programming-Homework\SquareRootOf12345\bin\Debug\SquareRootOf12345.exe
+D:\CSharpProjects\Intro-Programming-Homework\SquareRootOf12345\bin\Debug\SquareRootOf12345.pdb
+D:\CSharpProjects\Intro-Programming-Homework\SquareRootOf12345\obj\Debug\SquareRootOf12345.exe
+D:\CSharpProjects\Intro-Programming-Homework\SquareRootOf12345\obj\Debug\SquareRootOf12345.pdb

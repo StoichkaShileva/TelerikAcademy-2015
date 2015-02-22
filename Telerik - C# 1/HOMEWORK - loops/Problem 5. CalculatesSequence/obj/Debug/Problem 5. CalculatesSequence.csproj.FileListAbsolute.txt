@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 5. CalculatesSequence\bin\Debug\Problem_5.CalculatesSequence.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 5. CalculatesSequence\bin\Debug\Problem_5.CalculatesSequence.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 5. CalculatesSequence\bin\Debug\Problem_5.CalculatesSequence.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 5. CalculatesSequence\obj\Debug\Problem_5.CalculatesSequence.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 5. CalculatesSequence\obj\Debug\Problem_5.CalculatesSequence.pdb

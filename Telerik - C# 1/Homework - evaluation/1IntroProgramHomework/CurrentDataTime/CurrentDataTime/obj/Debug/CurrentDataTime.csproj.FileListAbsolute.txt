@@ -1,0 +1,12 @@
+c:\users\joro\documents\visual studio 2012\Projects\CurrentDataTime\CurrentDataTime\bin\Debug\CurrentDataTime.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\CurrentDataTime\CurrentDataTime\bin\Debug\CurrentDataTime.exe
+c:\users\joro\documents\visual studio 2012\Projects\CurrentDataTime\CurrentDataTime\bin\Debug\CurrentDataTime.pdb
+c:\users\joro\documents\visual studio 2012\Projects\CurrentDataTime\CurrentDataTime\obj\Debug\CurrentDataTime.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\CurrentDataTime\CurrentDataTime\obj\Debug\CurrentDataTime.exe
+c:\users\joro\documents\visual studio 2012\Projects\CurrentDataTime\CurrentDataTime\obj\Debug\CurrentDataTime.pdb
+C:\Users\Joro\Documents\introprogramming\CurrentDataTime\CurrentDataTime\bin\Debug\CurrentDataTime.exe.config
+C:\Users\Joro\Documents\introprogramming\CurrentDataTime\CurrentDataTime\obj\Debug\CurrentDataTime.exe
+C:\Users\Joro\Documents\introprogramming\CurrentDataTime\CurrentDataTime\obj\Debug\CurrentDataTime.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\CurrentDataTime\CurrentDataTime\bin\Debug\CurrentDataTime.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\CurrentDataTime\CurrentDataTime\obj\Debug\CurrentDataTime.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\CurrentDataTime\CurrentDataTime\obj\Debug\CurrentDataTime.pdb

@@ -1,0 +1,12 @@
+c:\users\joro\documents\visual studio 2012\Projects\PrintYourName\PrintYourName\bin\Debug\PrintYourName.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\PrintYourName\PrintYourName\bin\Debug\PrintYourName.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintYourName\PrintYourName\bin\Debug\PrintYourName.pdb
+c:\users\joro\documents\visual studio 2012\Projects\PrintYourName\PrintYourName\obj\Debug\PrintYourName.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\PrintYourName\PrintYourName\obj\Debug\PrintYourName.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintYourName\PrintYourName\obj\Debug\PrintYourName.pdb
+C:\Users\Joro\Documents\introprogramming\PrintYourName\PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Joro\Documents\introprogramming\PrintYourName\PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Joro\Documents\introprogramming\PrintYourName\PrintYourName\obj\Debug\PrintYourName.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintYourName\PrintYourName\bin\Debug\PrintYourName.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintYourName\PrintYourName\obj\Debug\PrintYourName.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintYourName\PrintYourName\obj\Debug\PrintYourName.pdb

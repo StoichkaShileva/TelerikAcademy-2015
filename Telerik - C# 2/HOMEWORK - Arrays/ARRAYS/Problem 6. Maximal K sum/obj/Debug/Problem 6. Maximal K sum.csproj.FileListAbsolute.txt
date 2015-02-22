@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 6. Maximal K sum\bin\Debug\Problem_6.Maximal_K_sum.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 6. Maximal K sum\bin\Debug\Problem_6.Maximal_K_sum.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 6. Maximal K sum\bin\Debug\Problem_6.Maximal_K_sum.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 6. Maximal K sum\obj\Debug\Problem_6.Maximal_K_sum.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 6. Maximal K sum\obj\Debug\Problem_6.Maximal_K_sum.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 6. Maximal K sum\obj\Debug\Problem 6. Maximal K sum.csprojResolveAssemblyReference.cache

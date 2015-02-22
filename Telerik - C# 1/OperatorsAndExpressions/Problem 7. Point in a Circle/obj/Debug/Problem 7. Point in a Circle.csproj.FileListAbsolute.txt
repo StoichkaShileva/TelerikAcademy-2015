@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 7. Point in a Circle\obj\Debug\Problem 7. Point in a Circle.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.pdb

@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\strangeLand\bin\Debug\strangeLand.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\strangeLand\bin\Debug\strangeLand.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\strangeLand\bin\Debug\strangeLand.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\strangeLand\obj\Debug\strangeLand.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\strangeLand\obj\Debug\strangeLand.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\strangeLand\obj\Debug\strangeLand.pdb

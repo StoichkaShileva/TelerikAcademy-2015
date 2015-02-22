@@ -1,0 +1,9 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\numbersToN\bin\Debug\numbersToN.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\numbersToN\bin\Debug\numbersToN.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\numbersToN\bin\Debug\numbersToN.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\numbersToN\obj\Debug\Problem 1 numbersToN.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\numbersToN\obj\Debug\numbersToN.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\numbersToN\obj\Debug\numbersToN.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\numbersToN\bin\Debug\numbersToN.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\numbersToN\obj\Debug\numbersToN.exe
+E:\DRIVEEE\Workspace\Telerik - C# 1\HOMEWORK - loops\numbersToN\obj\Debug\numbersToN.pdb

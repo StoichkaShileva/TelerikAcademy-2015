@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 8. Square Root\bin\Debug\Problem_8.Square_Root.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 8. Square Root\bin\Debug\Problem_8.Square_Root.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 8. Square Root\bin\Debug\Problem_8.Square_Root.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 8. Square Root\obj\Debug\Problem_8.Square_Root.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 8. Square Root\obj\Debug\Problem_8.Square_Root.pdb

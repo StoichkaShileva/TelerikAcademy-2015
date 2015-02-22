@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 7. Reverse number\bin\Debug\Problem_7.Reverse_number.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 7. Reverse number\bin\Debug\Problem_7.Reverse_number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 7. Reverse number\bin\Debug\Problem_7.Reverse_number.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 7. Reverse number\obj\Debug\Problem_7.Reverse_number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 7. Reverse number\obj\Debug\Problem_7.Reverse_number.pdb

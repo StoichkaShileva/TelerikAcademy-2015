@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 5. Workdays\bin\Debug\Problem_5.Workdays.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 5. Workdays\bin\Debug\Problem_5.Workdays.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 5. Workdays\bin\Debug\Problem_5.Workdays.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 5. Workdays\obj\Debug\Problem_5.Workdays.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\Practicing\Using Classes and Objects\Problem 5. Workdays\obj\Debug\Problem_5.Workdays.pdb

@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 10. N Factorial\bin\Debug\Problem_10.N_Factorial.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 10. N Factorial\bin\Debug\Problem_10.N_Factorial.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 10. N Factorial\bin\Debug\Problem_10.N_Factorial.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 10. N Factorial\obj\Debug\Problem_10.N_Factorial.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 10. N Factorial\obj\Debug\Problem_10.N_Factorial.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 10. N Factorial\obj\Debug\Problem 10. N Factorial.csprojResolveAssemblyReference.cache

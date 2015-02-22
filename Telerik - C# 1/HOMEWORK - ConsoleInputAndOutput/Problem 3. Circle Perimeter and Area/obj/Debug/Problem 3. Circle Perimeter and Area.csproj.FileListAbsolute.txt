@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 3. Circle Perimeter and Area\bin\Debug\Problem_3.Circle_Perimeter_and_Area.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Solution1\Problem 3. Circle Perimeter and Area\obj\Debug\Problem_3.Circle_Perimeter_and_Area.pdb

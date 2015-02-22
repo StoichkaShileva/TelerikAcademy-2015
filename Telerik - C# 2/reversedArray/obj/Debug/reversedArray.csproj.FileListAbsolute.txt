@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\reversedArray\bin\Debug\reversedArray.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\reversedArray\obj\Debug\reversedArray.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\reversedArray\bin\Debug\reversedArray.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\reversedArray\bin\Debug\reversedArray.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\reversedArray\obj\Debug\reversedArray.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\reversedArray\obj\Debug\reversedArray.pdb

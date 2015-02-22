@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 7. Selection sort\bin\Debug\Problem_7.Selection_sort.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 7. Selection sort\obj\Debug\Problem 7. Selection sort.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 7. Selection sort\bin\Debug\Problem_7.Selection_sort.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 7. Selection sort\bin\Debug\Problem_7.Selection_sort.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 7. Selection sort\obj\Debug\Problem_7.Selection_sort.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 7. Selection sort\obj\Debug\Problem_7.Selection_sort.pdb

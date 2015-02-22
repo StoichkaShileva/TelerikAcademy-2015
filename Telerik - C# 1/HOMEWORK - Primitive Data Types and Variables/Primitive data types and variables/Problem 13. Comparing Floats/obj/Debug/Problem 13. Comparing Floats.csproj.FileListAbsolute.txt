@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Primitive Data Types and Variables\Solution1\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb

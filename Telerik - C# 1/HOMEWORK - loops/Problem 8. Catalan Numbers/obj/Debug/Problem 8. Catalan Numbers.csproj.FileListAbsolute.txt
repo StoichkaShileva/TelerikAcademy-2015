@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 8. Catalan Numbers\bin\Debug\Problem_8.Catalan_Numbers.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 8. Catalan Numbers\bin\Debug\Problem_8.Catalan_Numbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 8. Catalan Numbers\bin\Debug\Problem_8.Catalan_Numbers.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 8. Catalan Numbers\obj\Debug\Problem 8. Catalan Numbers.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 8. Catalan Numbers\obj\Debug\Problem_8.Catalan_Numbers.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\HOMEWORK - loops\Problem 8. Catalan Numbers\obj\Debug\Problem_8.Catalan_Numbers.pdb

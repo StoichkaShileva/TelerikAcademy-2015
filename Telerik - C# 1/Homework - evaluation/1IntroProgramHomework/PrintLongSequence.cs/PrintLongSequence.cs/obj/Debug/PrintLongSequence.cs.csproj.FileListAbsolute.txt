@@ -1,0 +1,15 @@
+c:\users\joro\documents\visual studio 2012\Projects\PrintLongSequence.cs\PrintLongSequence.cs\bin\Debug\PrintLongSequence.cs.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\PrintLongSequence.cs\PrintLongSequence.cs\bin\Debug\PrintLongSequence.cs.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintLongSequence.cs\PrintLongSequence.cs\bin\Debug\PrintLongSequence.cs.pdb
+c:\users\joro\documents\visual studio 2012\Projects\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.pdb
+C:\Users\Joro\Documents\introprogramming\PrintLongSequence.cs\PrintLongSequence.cs\bin\Debug\PrintLongSequence.cs.exe.config
+C:\Users\Joro\Documents\introprogramming\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.exe
+C:\Users\Joro\Documents\introprogramming\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.pdb
+C:\Users\Joro\Documents\introprogramming\PrintLongSequence.cs\PrintLongSequence.cs\bin\Debug\PrintLongSequence.cs.exe
+C:\Users\Joro\Documents\introprogramming\PrintLongSequence.cs\PrintLongSequence.cs\bin\Debug\PrintLongSequence.cs.pdb
+C:\Users\Joro\Documents\introprogramming\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintLongSequence.cs\PrintLongSequence.cs\bin\Debug\PrintLongSequence.cs.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Homework - evaluation\IntroProgramHomework\PrintLongSequence.cs\PrintLongSequence.cs\obj\Debug\PrintLongSequence.cs.pdb

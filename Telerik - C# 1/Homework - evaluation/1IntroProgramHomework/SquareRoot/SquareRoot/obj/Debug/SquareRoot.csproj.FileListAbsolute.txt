@@ -1,0 +1,12 @@
+c:\users\joro\documents\visual studio 2012\Projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\joro\documents\visual studio 2012\Projects\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\joro\documents\visual studio 2012\Projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\joro\documents\visual studio 2012\Projects\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Joro\Documents\introprogramming\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\Joro\Documents\introprogramming\SquareRoot\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\Joro\Documents\introprogramming\SquareRoot\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\Joro\Documents\introprogramming\SquareRoot\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\Joro\Documents\introprogramming\SquareRoot\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\Joro\Documents\introprogramming\SquareRoot\SquareRoot\bin\Debug\SquareRoot.pdb

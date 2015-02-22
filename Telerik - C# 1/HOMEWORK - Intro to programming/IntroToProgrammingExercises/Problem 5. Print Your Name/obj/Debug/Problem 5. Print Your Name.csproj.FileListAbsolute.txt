@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 5. Print Your Name\bin\Debug\Problem_5.Print_Your_Name.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 5. Print Your Name\bin\Debug\Problem_5.Print_Your_Name.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 5. Print Your Name\bin\Debug\Problem_5.Print_Your_Name.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 5. Print Your Name\obj\Debug\Problem_5.Print_Your_Name.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\HOMEWORK - Intro to programming\IntroToProgrammingExercises\Problem 5. Print Your Name\obj\Debug\Problem_5.Print_Your_Name.pdb

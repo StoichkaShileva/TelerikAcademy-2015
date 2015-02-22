@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\Fire-Task\bin\Debug\Fire-Task.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\Fire-Task\obj\Debug\Fire-Task.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\Fire-Task\bin\Debug\Fire-Task.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\Fire-Task\bin\Debug\Fire-Task.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\Fire-Task\obj\Debug\Fire-Task.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Fire - Task\Fire-Task\Fire-Task\obj\Debug\Fire-Task.pdb

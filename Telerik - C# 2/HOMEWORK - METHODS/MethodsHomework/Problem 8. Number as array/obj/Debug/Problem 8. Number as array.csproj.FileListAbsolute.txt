@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 8. Number as array\bin\Debug\Problem_8.Number_as_array.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 8. Number as array\bin\Debug\Problem_8.Number_as_array.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 8. Number as array\bin\Debug\Problem_8.Number_as_array.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 8. Number as array\obj\Debug\Problem_8.Number_as_array.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 8. Number as array\obj\Debug\Problem_8.Number_as_array.pdb

@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 4. Hexadecimal to decimal\bin\Debug\Problem_4.Hexadecimal_to_decimal.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 4. Hexadecimal to decimal\bin\Debug\Problem_4.Hexadecimal_to_decimal.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 4. Hexadecimal to decimal\bin\Debug\Problem_4.Hexadecimal_to_decimal.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 4. Hexadecimal to decimal\obj\Debug\Problem_4.Hexadecimal_to_decimal.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Numeral Systems\NumeralSystems\Problem 4. Hexadecimal to decimal\obj\Debug\Problem_4.Hexadecimal_to_decimal.pdb

@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 4. Maximal sequence\bin\Debug\Problem_4.Maximal_sequence.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 4. Maximal sequence\bin\Debug\Problem_4.Maximal_sequence.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 4. Maximal sequence\bin\Debug\Problem_4.Maximal_sequence.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 4. Maximal sequence\obj\Debug\Problem_4.Maximal_sequence.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 4. Maximal sequence\obj\Debug\Problem_4.Maximal_sequence.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Arrays\ARRAYS\Problem 4. Maximal sequence\obj\Debug\Problem 4. Maximal sequence.csprojResolveAssemblyReference.cache

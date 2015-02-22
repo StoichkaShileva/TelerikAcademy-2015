@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2. Numbers Not Divisible\Problem 2. Numbers Not Divisible\bin\Debug\Problem_2.Numbers_Not_Divisible.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2. Numbers Not Divisible\Problem 2. Numbers Not Divisible\bin\Debug\Problem_2.Numbers_Not_Divisible.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2. Numbers Not Divisible\Problem 2. Numbers Not Divisible\bin\Debug\Problem_2.Numbers_Not_Divisible.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2. Numbers Not Divisible\Problem 2. Numbers Not Divisible\obj\Debug\Problem 2. Numbers Not Divisible.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2. Numbers Not Divisible\Problem 2. Numbers Not Divisible\obj\Debug\Problem_2.Numbers_Not_Divisible.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Problem 2. Numbers Not Divisible\Problem 2. Numbers Not Divisible\obj\Debug\Problem_2.Numbers_Not_Divisible.pdb

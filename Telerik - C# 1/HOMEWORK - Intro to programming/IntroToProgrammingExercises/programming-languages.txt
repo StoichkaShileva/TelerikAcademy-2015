@@ -1,0 +1,29 @@
+Problem 11. Programming Languages
+
+/// __________________ \\\
+
+
+var javascript = "Javascript is a script-based computer language. It is used in building web-sites and works client-side."
+                   +
+                   "The main type in javascript is 'VAR'. In 'VAR' variable you can assign any type that you want."
+                   +
+                   "The OOP is very strange and different from other languages, because when the lanaguage was created... "
+                   +
+                   "it hadn't the object-oriented style. The OOP concept in Javacript was founded lately."
+
+/// __________________ \\\
+
+$php = "PHP like javascript is script-based computer language, it also is oriented for building web-sites, but works on server-side."
+		.
+		"PHP code can be simply mixed with HTML code, or it can be used in combination with various templating engines and web frameworks";
+
+/// __________________ \\\
+
+
+string cPlusPlus = "C++ iss a general-purpose programming language. It has imperative, object-oriented and generic programming features"
+					+
+					"while also providing the facilities for low-level memory manipulation. It is designed with a bias toward system "
+					+
+					"programming (e.g., for use in embedded systems or operating system kernels), with performance, efficiency "
+					+
+					"flexibility of use as its design requirements."

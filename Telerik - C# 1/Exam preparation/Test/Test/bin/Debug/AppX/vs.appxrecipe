@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEX</Machine>
+    <WindowsUser>frows_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6270bcc3-ef07-483e-be44-487510abdb98</PackageIdentityName>
+    <IntermediateOutputPath>E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0A182EAB481CB014888E0D348D6C670B112D506CF5D6EC72421A2B3D5DA78B9E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6270bcc3-ef07-483e-be44-487510abdb98_1.0.0.0_neutral__2sngtnsbf7kyw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6270bcc3-ef07-483e-be44-487510abdb98_2sngtnsbf7kyw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6270bcc3-ef07-483e-be44-487510abdb98</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=frows_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-31T17:29:36.260</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\bin\Debug\Test.exe">
+      <PackagePath>Test.exe</PackagePath>
+      <Modified>2015-01-31T17:35:31.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-31T17:29:35.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-31T17:29:35.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\bin\Debug\Test.xr.xml">
+      <PackagePath>Test.xr.xml</PackagePath>
+      <Modified>2015-01-31T17:29:35.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\Test\Test\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-31T17:29:36.047</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

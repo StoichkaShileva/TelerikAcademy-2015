@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\enigmanation\enigmanation\bin\Debug\enigmanation.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\enigmanation\enigmanation\bin\Debug\enigmanation.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\enigmanation\enigmanation\bin\Debug\enigmanation.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\enigmanation\enigmanation\obj\Debug\enigmanation.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\enigmanation\enigmanation\obj\Debug\enigmanation.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\enigmanation\enigmanation\obj\Debug\enigmanation.pdb

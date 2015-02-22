@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\cardWars\bin\Debug\cardWars.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\cardWars\bin\Debug\cardWars.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\cardWars\bin\Debug\cardWars.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\cardWars\obj\Debug\cardWars.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\cardWars\obj\Debug\cardWars.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\cardWars\obj\Debug\cardWars.pdb

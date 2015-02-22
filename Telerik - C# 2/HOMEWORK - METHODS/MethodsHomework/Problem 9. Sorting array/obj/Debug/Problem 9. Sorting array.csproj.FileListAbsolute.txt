@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 9. Sorting array\bin\Debug\Problem_9.Sorting_array.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 9. Sorting array\bin\Debug\Problem_9.Sorting_array.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 9. Sorting array\bin\Debug\Problem_9.Sorting_array.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 9. Sorting array\obj\Debug\Problem_9.Sorting_array.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - METHODS\MethodsHomework\Problem 9. Sorting array\obj\Debug\Problem_9.Sorting_array.pdb

@@ -1,0 +1,6 @@
+c:\users\joro\documents\visual studio 2012\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\joro\documents\visual studio 2012\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintNumbers\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\joro\documents\visual studio 2012\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+c:\users\joro\documents\visual studio 2012\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\joro\documents\visual studio 2012\Projects\PrintNumbers\PrintNumbers\obj\Debug\PrintNumbers.pdb

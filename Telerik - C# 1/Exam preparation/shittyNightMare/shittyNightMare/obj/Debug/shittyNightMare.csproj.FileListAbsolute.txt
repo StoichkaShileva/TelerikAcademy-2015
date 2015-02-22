@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\shittyNightMare\shittyNightMare\bin\Debug\shittyNightMare.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\shittyNightMare\shittyNightMare\bin\Debug\shittyNightMare.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\shittyNightMare\shittyNightMare\bin\Debug\shittyNightMare.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\shittyNightMare\shittyNightMare\obj\Debug\shittyNightMare.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\shittyNightMare\shittyNightMare\obj\Debug\shittyNightMare.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\Exam preparation\shittyNightMare\shittyNightMare\obj\Debug\shittyNightMare.pdb

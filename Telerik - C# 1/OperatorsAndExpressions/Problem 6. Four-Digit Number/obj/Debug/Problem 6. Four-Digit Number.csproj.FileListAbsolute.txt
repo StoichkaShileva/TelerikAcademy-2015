@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 6. Four-Digit Number\obj\Debug\Problem 6. Four-Digit Number.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.pdb

@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe.config
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.exe
+E:\DRIVEEE\Workspace\Telerik  - C# 1\OperatorsAndExpressions\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.pdb
