@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 21. Letters count\bin\Debug\Problem_21.Letters_count.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 21. Letters count\bin\Debug\Problem_21.Letters_count.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 21. Letters count\bin\Debug\Problem_21.Letters_count.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 21. Letters count\obj\Debug\Problem 21. Letters count.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 21. Letters count\obj\Debug\Problem_21.Letters_count.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 21. Letters count\obj\Debug\Problem_21.Letters_count.pdb

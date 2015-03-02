@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 5. Parse tags\bin\Debug\Problem_5.Parse_tags.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 5. Parse tags\bin\Debug\Problem_5.Parse_tags.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 5. Parse tags\bin\Debug\Problem_5.Parse_tags.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 5. Parse tags\obj\Debug\Problem 5. Parse tags.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 5. Parse tags\obj\Debug\Problem_5.Parse_tags.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 5. Parse tags\obj\Debug\Problem_5.Parse_tags.pdb

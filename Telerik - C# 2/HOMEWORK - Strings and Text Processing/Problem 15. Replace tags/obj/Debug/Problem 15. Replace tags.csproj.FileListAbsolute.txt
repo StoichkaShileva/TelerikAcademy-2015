@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 15. Replace tags\bin\Debug\Problem_15.Replace_tags.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 15. Replace tags\bin\Debug\Problem_15.Replace_tags.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 15. Replace tags\bin\Debug\Problem_15.Replace_tags.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 15. Replace tags\obj\Debug\Problem_15.Replace_tags.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 15. Replace tags\obj\Debug\Problem_15.Replace_tags.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 15. Replace tags\obj\Debug\Problem 15. Replace tags.csprojResolveAssemblyReference.cache

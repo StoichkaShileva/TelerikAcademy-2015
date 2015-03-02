@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 1 – Zerg!!!\Problem 1 – Zerg!!!\bin\Debug\Problem 1 – Zerg!!!.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 1 – Zerg!!!\Problem 1 – Zerg!!!\bin\Debug\Problem 1 – Zerg!!!.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 1 – Zerg!!!\Problem 1 – Zerg!!!\bin\Debug\Problem 1 – Zerg!!!.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 1 – Zerg!!!\Problem 1 – Zerg!!!\obj\Debug\Problem 1 – Zerg!!!.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 1 – Zerg!!!\Problem 1 – Zerg!!!\obj\Debug\Problem 1 – Zerg!!!.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 1 – Zerg!!!\Problem 1 – Zerg!!!\obj\Debug\Problem 1 – Zerg!!!.pdb

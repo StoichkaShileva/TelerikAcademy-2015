@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 9. Forbidden words\bin\Debug\Problem_9.Forbidden_words.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 9. Forbidden words\bin\Debug\Problem_9.Forbidden_words.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 9. Forbidden words\bin\Debug\Problem_9.Forbidden_words.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 9. Forbidden words\obj\Debug\Problem 9. Forbidden words.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 9. Forbidden words\obj\Debug\Problem_9.Forbidden_words.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 9. Forbidden words\obj\Debug\Problem_9.Forbidden_words.pdb

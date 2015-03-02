@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 23. Series of letters\bin\Debug\Problem_23.Series_of_letters.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 23. Series of letters\bin\Debug\Problem_23.Series_of_letters.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 23. Series of letters\bin\Debug\Problem_23.Series_of_letters.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 23. Series of letters\obj\Debug\Problem 23. Series of letters.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 23. Series of letters\obj\Debug\Problem_23.Series_of_letters.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 23. Series of letters\obj\Debug\Problem_23.Series_of_letters.pdb

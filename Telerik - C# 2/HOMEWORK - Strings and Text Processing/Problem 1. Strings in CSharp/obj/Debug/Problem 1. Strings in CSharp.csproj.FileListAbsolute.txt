@@ -1,0 +1,9 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 1. Strings in CSharp\bin\Debug\Problem_1.Strings_in_CSharp.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 1. Strings in CSharp\bin\Debug\Problem_1.Strings_in_CSharp.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 1. Strings in CSharp\bin\Debug\Problem_1.Strings_in_CSharp.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem 1. Strings in CSharp.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem_1.Strings_in_CSharp.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem_1.Strings_in_CSharp.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 1. Strings in CSharp\bin\Debug\Problem_1.Strings_in_CSharp.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem_1.Strings_in_CSharp.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 1. Strings in CSharp\obj\Debug\Problem_1.Strings_in_CSharp.pdb

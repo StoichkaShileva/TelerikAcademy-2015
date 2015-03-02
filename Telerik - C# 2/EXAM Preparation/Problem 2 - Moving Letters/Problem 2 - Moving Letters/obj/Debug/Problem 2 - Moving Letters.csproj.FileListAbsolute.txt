@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 - Moving Letters\Problem 2 - Moving Letters\bin\Debug\Problem 2 - Moving Letters.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 - Moving Letters\Problem 2 - Moving Letters\bin\Debug\Problem 2 - Moving Letters.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 - Moving Letters\Problem 2 - Moving Letters\bin\Debug\Problem 2 - Moving Letters.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 - Moving Letters\Problem 2 - Moving Letters\obj\Debug\Problem 2 - Moving Letters.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 - Moving Letters\Problem 2 - Moving Letters\obj\Debug\Problem 2 - Moving Letters.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 - Moving Letters\Problem 2 - Moving Letters\obj\Debug\Problem 2 - Moving Letters.pdb

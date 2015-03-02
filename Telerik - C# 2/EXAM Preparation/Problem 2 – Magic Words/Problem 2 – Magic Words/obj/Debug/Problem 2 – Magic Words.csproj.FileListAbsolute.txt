@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 – Magic Words\Problem 2 – Magic Words\bin\Debug\Problem 2 – Magic Words.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 – Magic Words\Problem 2 – Magic Words\bin\Debug\Problem 2 – Magic Words.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 – Magic Words\Problem 2 – Magic Words\bin\Debug\Problem 2 – Magic Words.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 – Magic Words\Problem 2 – Magic Words\obj\Debug\Problem 2 – Magic Words.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 – Magic Words\Problem 2 – Magic Words\obj\Debug\Problem 2 – Magic Words.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Problem 2 – Magic Words\Problem 2 – Magic Words\obj\Debug\Problem 2 – Magic Words.pdb

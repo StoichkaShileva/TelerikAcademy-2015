@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 25. Extract text from HTML\bin\Debug\Problem_25.Extract_text_from_HTML.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 25. Extract text from HTML\bin\Debug\Problem_25.Extract_text_from_HTML.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 25. Extract text from HTML\bin\Debug\Problem_25.Extract_text_from_HTML.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 25. Extract text from HTML\obj\Debug\Problem_25.Extract_text_from_HTML.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 25. Extract text from HTML\obj\Debug\Problem_25.Extract_text_from_HTML.pdb

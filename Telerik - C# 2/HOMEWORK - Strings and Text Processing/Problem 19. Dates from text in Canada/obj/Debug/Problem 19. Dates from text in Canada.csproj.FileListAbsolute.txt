@@ -1,0 +1,12 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 19. Dates from text in Canada\bin\Debug\Problem_19.Dates_from_text_in_Canada.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 19. Dates from text in Canada\obj\Debug\Problem 19. Dates from text in Canada.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 19. Dates from text in Canada\bin\Debug\Problem_19.Dates_from_text_in_Canada.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 19. Dates from text in Canada\bin\Debug\Problem_19.Dates_from_text_in_Canada.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 19. Dates from text in Canada\obj\Debug\Problem_19.Dates_from_text_in_Canada.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 19. Dates from text in Canada\obj\Debug\Problem_19.Dates_from_text_in_Canada.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 19. Dates from text in Canada\bin\Debug\Problem_19.Dates_from_text_in_Canada.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 19. Dates from text in Canada\obj\Debug\Problem_19.Dates_from_text_in_Canada.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 19. Dates from text in Canada\obj\Debug\Problem_19.Dates_from_text_in_Canada.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 19. Dates from text in Canada\bin\Debug\Problem_19.Dates_from_text_in_Canada.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 19. Dates from text in Canada\bin\Debug\Problem_19.Dates_from_text_in_Canada.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 19. Dates from text in Canada\obj\Debug\Problem 19. Dates from text in Canada.csprojResolveAssemblyReference.cache

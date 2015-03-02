@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 8. Extract sentences\bin\Debug\Problem_8.Extract_sentences.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 8. Extract sentences\bin\Debug\Problem_8.Extract_sentences.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 8. Extract sentences\bin\Debug\Problem_8.Extract_sentences.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 8. Extract sentences\obj\Debug\Problem 8. Extract sentences.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 8. Extract sentences\obj\Debug\Problem_8.Extract_sentences.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 8. Extract sentences\obj\Debug\Problem_8.Extract_sentences.pdb

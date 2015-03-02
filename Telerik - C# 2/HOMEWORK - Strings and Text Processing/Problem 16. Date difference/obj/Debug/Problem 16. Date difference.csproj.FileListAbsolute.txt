@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 16. Date difference\bin\Debug\Problem_16.Date_difference.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 16. Date difference\bin\Debug\Problem_16.Date_difference.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 16. Date difference\bin\Debug\Problem_16.Date_difference.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 16. Date difference\obj\Debug\Problem_16.Date_difference.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 16. Date difference\obj\Debug\Problem_16.Date_difference.pdb

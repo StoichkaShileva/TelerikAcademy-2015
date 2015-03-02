@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 13. Reverse sentence\bin\Debug\Problem_13.Reverse_sentence.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 13. Reverse sentence\bin\Debug\Problem_13.Reverse_sentence.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 13. Reverse sentence\bin\Debug\Problem_13.Reverse_sentence.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 13. Reverse sentence\obj\Debug\Problem 13. Reverse sentence.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 13. Reverse sentence\obj\Debug\Problem_13.Reverse_sentence.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 13. Reverse sentence\obj\Debug\Problem_13.Reverse_sentence.pdb

@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 11. Format number\bin\Debug\Problem_11.Format_number.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 11. Format number\bin\Debug\Problem_11.Format_number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 11. Format number\bin\Debug\Problem_11.Format_number.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 11. Format number\obj\Debug\Problem_11.Format_number.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 11. Format number\obj\Debug\Problem_11.Format_number.pdb

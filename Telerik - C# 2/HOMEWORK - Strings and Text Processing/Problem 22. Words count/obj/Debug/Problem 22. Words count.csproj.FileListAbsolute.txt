@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 22. Words count\bin\Debug\Problem_22.Words_count.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 22. Words count\bin\Debug\Problem_22.Words_count.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 22. Words count\bin\Debug\Problem_22.Words_count.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 22. Words count\obj\Debug\Problem_22.Words_count.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 22. Words count\obj\Debug\Problem_22.Words_count.pdb

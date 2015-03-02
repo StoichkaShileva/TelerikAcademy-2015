@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 2. Enter numbers\bin\Debug\Problem_2.Enter_numbers.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 2. Enter numbers\bin\Debug\Problem_2.Enter_numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 2. Enter numbers\bin\Debug\Problem_2.Enter_numbers.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 2. Enter numbers\obj\Debug\Problem_2.Enter_numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 2. Enter numbers\obj\Debug\Problem_2.Enter_numbers.pdb

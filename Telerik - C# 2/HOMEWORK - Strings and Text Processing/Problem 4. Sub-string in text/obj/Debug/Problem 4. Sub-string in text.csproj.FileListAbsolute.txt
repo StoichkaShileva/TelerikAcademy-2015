@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 4. Sub-string in text\bin\Debug\Problem_4.Sub_string_in_text.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 4. Sub-string in text\bin\Debug\Problem_4.Sub_string_in_text.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 4. Sub-string in text\bin\Debug\Problem_4.Sub_string_in_text.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 4. Sub-string in text\obj\Debug\Problem_4.Sub_string_in_text.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 4. Sub-string in text\obj\Debug\Problem_4.Sub_string_in_text.pdb

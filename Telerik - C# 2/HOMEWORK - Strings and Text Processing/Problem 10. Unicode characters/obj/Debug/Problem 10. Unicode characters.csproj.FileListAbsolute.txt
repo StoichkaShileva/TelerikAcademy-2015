@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 10. Unicode characters\bin\Debug\Problem_10.Unicode_characters.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 10. Unicode characters\bin\Debug\Problem_10.Unicode_characters.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 10. Unicode characters\bin\Debug\Problem_10.Unicode_characters.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 10. Unicode characters\obj\Debug\Problem_10.Unicode_characters.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 10. Unicode characters\obj\Debug\Problem_10.Unicode_characters.pdb

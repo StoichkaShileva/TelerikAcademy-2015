@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 3. Correct brackets\bin\Debug\Problem_3.Correct_brackets.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 3. Correct brackets\bin\Debug\Problem_3.Correct_brackets.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 3. Correct brackets\bin\Debug\Problem_3.Correct_brackets.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 3. Correct brackets\obj\Debug\Problem_3.Correct_brackets.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 3. Correct brackets\obj\Debug\Problem_3.Correct_brackets.pdb

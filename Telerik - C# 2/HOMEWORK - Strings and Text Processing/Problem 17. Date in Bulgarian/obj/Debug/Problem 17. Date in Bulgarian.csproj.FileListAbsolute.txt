@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\bin\Debug\Problem_17.Date_in_Bulgarian.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\bin\Debug\Problem_17.Date_in_Bulgarian.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\bin\Debug\Problem_17.Date_in_Bulgarian.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\obj\Debug\Problem 17. Date in Bulgarian.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\obj\Debug\Problem_17.Date_in_Bulgarian.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 17. Date in Bulgarian\obj\Debug\Problem_17.Date_in_Bulgarian.pdb

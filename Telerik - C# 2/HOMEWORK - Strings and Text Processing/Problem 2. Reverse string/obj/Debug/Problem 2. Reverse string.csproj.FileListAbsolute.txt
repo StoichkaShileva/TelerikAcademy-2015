@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 2. Reverse string\bin\Debug\Problem_2.Reverse_string.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 2. Reverse string\bin\Debug\Problem_2.Reverse_string.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 2. Reverse string\bin\Debug\Problem_2.Reverse_string.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 2. Reverse string\obj\Debug\Problem_2.Reverse_string.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 2. Reverse string\obj\Debug\Problem_2.Reverse_string.pdb

@@ -1,0 +1,12 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem 18. Extract e-mails.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem_18.Extract_e_mails.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\Homework Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem_18.Extract_e_mails.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem_18.Extract_e_mails.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem_18.Extract_e_mails.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 18. Extract e-mails\bin\Debug\Problem_18.Extract_e_mails.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\HOMEWORK - Strings and Text Processing\Problem 18. Extract e-mails\obj\Debug\Problem 18. Extract e-mails.csprojResolveAssemblyReference.cache

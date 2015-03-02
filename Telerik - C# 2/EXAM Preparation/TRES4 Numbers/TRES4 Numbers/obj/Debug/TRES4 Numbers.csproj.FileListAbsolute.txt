@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\TRES4 Numbers\TRES4 Numbers\bin\Debug\TRES4 Numbers.exe.config
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\TRES4 Numbers\TRES4 Numbers\obj\Debug\TRES4 Numbers.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\TRES4 Numbers\TRES4 Numbers\bin\Debug\TRES4 Numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\TRES4 Numbers\TRES4 Numbers\bin\Debug\TRES4 Numbers.pdb
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\TRES4 Numbers\TRES4 Numbers\obj\Debug\TRES4 Numbers.exe
+E:\DRIVEEE\Workspace\Telerik - C# 2\EXAM Preparation\TRES4 Numbers\TRES4 Numbers\obj\Debug\TRES4 Numbers.pdb
