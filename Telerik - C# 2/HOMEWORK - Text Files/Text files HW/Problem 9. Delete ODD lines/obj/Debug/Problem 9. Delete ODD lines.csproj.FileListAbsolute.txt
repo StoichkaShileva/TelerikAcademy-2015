@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 9. Delete ODD lines\bin\Debug\Problem_9.Delete_ODD_lines.exe.config
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 9. Delete ODD lines\bin\Debug\Problem_9.Delete_ODD_lines.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 9. Delete ODD lines\bin\Debug\Problem_9.Delete_ODD_lines.pdb
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 9. Delete ODD lines\obj\Debug\Problem_9.Delete_ODD_lines.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 9. Delete ODD lines\obj\Debug\Problem_9.Delete_ODD_lines.pdb

@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 3. Line numbers\bin\Debug\Problem_3.Line_numbers.exe.config
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 3. Line numbers\bin\Debug\Problem_3.Line_numbers.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 3. Line numbers\bin\Debug\Problem_3.Line_numbers.pdb
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 3. Line numbers\obj\Debug\Problem 3. Line numbers.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 3. Line numbers\obj\Debug\Problem_3.Line_numbers.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 3. Line numbers\obj\Debug\Problem_3.Line_numbers.pdb

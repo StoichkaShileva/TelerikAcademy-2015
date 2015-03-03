@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 6. Save sorted names\bin\Debug\Problem_6.Save_sorted_names.exe.config
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 6. Save sorted names\bin\Debug\Problem_6.Save_sorted_names.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 6. Save sorted names\bin\Debug\Problem_6.Save_sorted_names.pdb
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 6. Save sorted names\obj\Debug\Problem 6. Save sorted names.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 6. Save sorted names\obj\Debug\Problem_6.Save_sorted_names.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 6. Save sorted names\obj\Debug\Problem_6.Save_sorted_names.pdb

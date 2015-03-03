@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 2. Concatenate text files\bin\Debug\Problem_2.Concatenate_text_files.exe.config
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 2. Concatenate text files\bin\Debug\Problem_2.Concatenate_text_files.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 2. Concatenate text files\bin\Debug\Problem_2.Concatenate_text_files.pdb
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 2. Concatenate text files\obj\Debug\Problem_2.Concatenate_text_files.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 2. Concatenate text files\obj\Debug\Problem_2.Concatenate_text_files.pdb

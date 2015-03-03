@@ -1,0 +1,6 @@
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 4. DownloadFile\bin\Debug\Problem_4.DownloadFile.exe.config
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 4. DownloadFile\bin\Debug\Problem_4.DownloadFile.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 4. DownloadFile\bin\Debug\Problem_4.DownloadFile.pdb
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 4. DownloadFile\obj\Debug\Problem 4. DownloadFile.csprojResolveAssemblyReference.cache
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 4. DownloadFile\obj\Debug\Problem_4.DownloadFile.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Exception Handling\Homework Exception Handling\Problem 4. DownloadFile\obj\Debug\Problem_4.DownloadFile.pdb

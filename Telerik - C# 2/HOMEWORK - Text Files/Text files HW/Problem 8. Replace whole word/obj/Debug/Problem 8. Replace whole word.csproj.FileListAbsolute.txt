@@ -1,0 +1,5 @@
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 8. Replace whole word\bin\Debug\Problem_8.Replace_whole_word.exe.config
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 8. Replace whole word\bin\Debug\Problem_8.Replace_whole_word.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 8. Replace whole word\bin\Debug\Problem_8.Replace_whole_word.pdb
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 8. Replace whole word\obj\Debug\Problem_8.Replace_whole_word.exe
+E:\DRIVEEE\Workspace\TelerikAcademy-2015-\Telerik - C# 2\HOMEWORK - Text Files\Solution1\Problem 8. Replace whole word\obj\Debug\Problem_8.Replace_whole_word.pdb
