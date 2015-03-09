@@ -17,8 +17,8 @@ namespace _01.GSM
 
     public class StartProgram
     {
-        static void Main(string[] args)
-        
+        private static void Main(string[] args)
+
         {
             //#Input
             //Console.WriteLine("Enter phone model:");
@@ -52,6 +52,4 @@ namespace _01.GSM
             test.TestHistoryCalls();
         }
     }
-
-    
 }

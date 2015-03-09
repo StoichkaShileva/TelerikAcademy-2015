@@ -110,14 +110,14 @@ namespace _01.GSM
                 return true;
         }
 
-        //public override string ToString()
-        //{
-        //    string model = Model.ToString();
-        //    string manufacturer = Manufacturer.ToString();
-        //    string price = Price.ToString();
+        public override string ToString()
+        {
+            string model = Model.ToString();
+            string manufacturer = Manufacturer.ToString();
+            string price = Price.ToString();
 
-        //    return model + " " + manufacturer + " " + price + " " + IPhone4SInfo;
-        //}
+            return model + " " + manufacturer + " " + price + " " + IPhone4SInfo;
+        }
 
         public List<Call> CallHistory
         {

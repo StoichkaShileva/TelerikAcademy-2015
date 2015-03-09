@@ -16,7 +16,7 @@ namespace _01.GSM
             List<Call> afewCalls = new List<Call>();
             for (int i = 0; i < 6; i++)
             {
-                afewCalls.Add(new Call(DateTime.Now, DateTime.Now, 0889876543, 0881234567, i+0.3)); 
+                afewCalls.Add(new Call(DateTime.Now, DateTime.Now, "0889876543", "0881234567", i+0.3)); 
             }
             foreach (var afewCall in afewCalls)
             {

@@ -10,11 +10,11 @@
     {
         private DateTime date;
         private DateTime time;
-        private long dialedPhone;
-        private long number;
+        private string dialedPhone;
+        private string number;
         private double duration;
 
-        public Call(DateTime date, DateTime time, long dialedPhone, long number, double duration) : base()
+        public Call(DateTime date, DateTime time, string dialedPhone, string number, double duration) : base()
         {
             this.date = date;
             this.time = time;
@@ -40,12 +40,12 @@
             set { this.time = value; }
         }
 
-        public long DialedPhone
+        public string DialedPhone
         {
             get { return this.dialedPhone; }
         }
 
-        public long Number
+        public string Number
         {
             get { return this.number; }
         }
