@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. De-cat-coding", "01. De-cat-coding\01. De-cat-coding.csproj", "{7FD8335E-DBEC-4E75-8754-3CAE5B49A129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Increasing Absolute Differences", "02. Increasing Absolute Differences\02. Increasing Absolute Differences.csproj", "{BF4AEEA5-D7DD-4F30-8BE1-5F17575FBE7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Bit shift matrix", "03. Bit shift matrix\03. Bit shift matrix.csproj", "{9FC4C669-E082-45D6-AC13-0CA3C5E325B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{980527F8-5444-460C-81B3-4B112EBA9BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Singing Cats", "05. Singing Cats\05. Singing Cats.csproj", "{DD1709E7-A77D-4D94-AA3F-2073FB1B6B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD8335E-DBEC-4E75-8754-3CAE5B49A129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD8335E-DBEC-4E75-8754-3CAE5B49A129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD8335E-DBEC-4E75-8754-3CAE5B49A129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD8335E-DBEC-4E75-8754-3CAE5B49A129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4AEEA5-D7DD-4F30-8BE1-5F17575FBE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4AEEA5-D7DD-4F30-8BE1-5F17575FBE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4AEEA5-D7DD-4F30-8BE1-5F17575FBE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4AEEA5-D7DD-4F30-8BE1-5F17575FBE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC4C669-E082-45D6-AC13-0CA3C5E325B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC4C669-E082-45D6-AC13-0CA3C5E325B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC4C669-E082-45D6-AC13-0CA3C5E325B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC4C669-E082-45D6-AC13-0CA3C5E325B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980527F8-5444-460C-81B3-4B112EBA9BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980527F8-5444-460C-81B3-4B112EBA9BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980527F8-5444-460C-81B3-4B112EBA9BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980527F8-5444-460C-81B3-4B112EBA9BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1709E7-A77D-4D94-AA3F-2073FB1B6B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1709E7-A77D-4D94-AA3F-2073FB1B6B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1709E7-A77D-4D94-AA3F-2073FB1B6B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1709E7-A77D-4D94-AA3F-2073FB1B6B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
