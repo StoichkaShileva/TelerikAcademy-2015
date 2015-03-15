@@ -10,7 +10,7 @@ namespace Problem_1.StringBuilder.Substring
         public static StringBuilder Substring(this StringBuilder input, int index, int length)
         {
             StringBuilder final = new StringBuilder();
-            for (int i = index; z < length; i++)
+            for (int i = index, z = 0; z < length; i++, z++)
             {
                 final.Append(input[i]);
             }
