@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{537EE6BE-5DA5-45EA-B6E1-D990AE9BC497}</ProjectGuid>
+    <ProjectGuid>{27A84E69-DDA4-4249-8581-4006145E40FE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem_5.Order_students</RootNamespace>
-    <AssemblyName>Problem_5.Order_students</AssemblyName>
+    <RootNamespace>Problem_6.Divisible_by_7_and_3</RootNamespace>
+    <AssemblyName>Problem_6.Divisible_by_7_and_3</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,9 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OrderStudentsMain.cs" />
+    <Compile Include="StartProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
