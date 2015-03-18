@@ -12,7 +12,7 @@ namespace Problem_1.StringBuilder.Substring
         {
             StringBuilder str = new StringBuilder();
             str.Append("Yeeeah man!"); //Example string
-            StringBuilder result = str.Substring(1, 5); //Getting only from index 7 - 3 chars
+            StringBuilder result = str.Substring(1, 5); //Getting only from index 1 - 5 chars
             Console.WriteLine(result.ToString()); //Printing the obtained result after substring
         }
     }

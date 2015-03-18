@@ -1,17 +1,27 @@
-﻿using System.Collections.Generic;
-
+﻿/*Using delegates write a class Timer that can execute certain method at each t seconds.*/
 namespace Problem_7.Timer
 {
-    public delegate int Del(string param); 
+    using System;
+
     class StartProgram
     {
-        private static int Magic(string a)
+        private static void MethodA(string val)
         {
-            return 5;
+            Console.WriteLine("Method A with {0} value is invoked!", val);
         }
-        static void Main()
+
+        private static void MethodB(string val)
         {
-            Del myDelegate = new Del(Magic);
+            Console.WriteLine("Method B! +> {0}", val);
+        }
+        public static void Main()
+        {
+            Timer t = new Timer(2); //Here we set seconds
+            //Adding to the delegate some methods
+            t.Method += MethodA; 
+            t.Method += MethodB;
+            //Invoking all methods with string parameter "wazup"
+            t.Start("wazup");
         }
     }
 }
