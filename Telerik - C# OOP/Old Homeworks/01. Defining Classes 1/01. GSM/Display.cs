@@ -10,10 +10,10 @@
         private double? displaySize;
         private long numberOfColors;
 
-        public Display(double? displaySize, long numberOfColors)
+        public Display(double? displaySize, long numberOfColorsInput)
         {
             this.Size = displaySize;
-            this.numberOfColors = Colors;
+            this.Colors = numberOfColorsInput;
         }
 
         public double? Size
