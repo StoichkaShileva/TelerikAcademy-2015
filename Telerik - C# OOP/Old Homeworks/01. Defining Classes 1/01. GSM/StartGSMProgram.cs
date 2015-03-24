@@ -47,7 +47,15 @@ namespace _01.GSM
             //{
             //    colors = long.Parse(currentColor);
             //}
+            Battery batteryOfGalaxy = new Battery();
+            batteryOfGalaxy.HoursIdle = 12;
+            batteryOfGalaxy.Model = "SuperChina";
+            batteryOfGalaxy.HoursTalk = 3;
 
+            Display superAmoled = new Display(5.5, 16837172361);
+            GSM phone = new GSM("Galaxy S6", "Samsung", batteryOfGalaxy, superAmoled);
+            phone.Price = 1440;
+            Console.WriteLine(phone);
             GSMCallHistoryTest test = new GSMCallHistoryTest();
             test.TestHistoryCalls();
         }

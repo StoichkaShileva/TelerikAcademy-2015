@@ -1,4 +1,6 @@
-﻿namespace _01.GSM
+﻿using System.Runtime.InteropServices;
+
+namespace _01.GSM
 {
     using System;
     using System.Collections.Generic;
@@ -8,12 +10,18 @@
     public class Display
     {
         private double? displaySize;
-        private long numberOfColors;
+        private long? numberOfColors;
 
-        public Display(double? displaySize, long numberOfColorsInput)
+        public Display(double? displaySize, long? numberOfColorsInput)
         {
             this.Size = displaySize;
             this.Colors = numberOfColorsInput;
+        }
+
+        public Display(double? displaySize)
+            : this(displaySize, null)
+        {
+            
         }
 
         public double? Size
@@ -22,7 +30,7 @@
             set { this.displaySize = value; }
         }
 
-        public long Colors
+        public long? Colors
         {
             get { return this.numberOfColors; }
             set { this.numberOfColors = value; }

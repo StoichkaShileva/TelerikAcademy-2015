@@ -1,13 +1,8 @@
-﻿using System.Dynamic;
-using System.Xml;
-
-namespace _01.GSM
+﻿namespace _01.GSM
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;
     using System.Text;
-    using System.Threading.Tasks;
     public class GSM
     {
         public static string IPhone4SInfo = "iPhone 4S is a phone that has been released in 2011 with iOS version 5.0. Now iPhone" +
@@ -24,19 +19,7 @@ namespace _01.GSM
         private int price;
         private List<Call> callHistory = new List<Call>(); 
 
-        public GSM(string model, string manufacturer)
-        {
-            this.Model = model;
-            this.Manufacturer = manufacturer;
-        }
-
-        public GSM(string model, string manufacturer, Battery battery)
-        {
-            this.Model = model;
-            this.Manufacturer = manufacturer;
-            this.PhoneBattery = battery;
-        }
-
+       
         public GSM(string model, string manufacturer, Battery battery, Display display)
         {
             this.Model = model;
@@ -44,6 +27,18 @@ namespace _01.GSM
             this.PhoneBattery = battery;
             this.PhoneDisplay = display;
         }
+
+        public GSM(string model, string manufacturer)
+            : this (model, manufacturer, new Battery(), new Display(null, null))
+        {
+        }
+
+        public GSM(string model, string manufacturer, Battery battery)
+            : this(model, manufacturer, battery, new Display(null, null))
+        {
+
+        }
+
 
         public string Model
         {
@@ -110,14 +105,7 @@ namespace _01.GSM
                 return true;
         }
 
-        public override string ToString()
-        {
-            string model = Model.ToString();
-            string manufacturer = Manufacturer.ToString();
-            string price = Price.ToString();
-
-            return model + " " + manufacturer + " " + price + " " + IPhone4SInfo;
-        }
+        
 
         public List<Call> CallHistory
         {
@@ -153,6 +141,17 @@ namespace _01.GSM
             }
             spentMoney += (entireDuration*pricePerMinute);
             return spentMoney;
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(string.Format("Model name: {0}", this.Model));
+            sb.AppendLine(string.Format("Manufacturer: {0}", this.Manufacturer));
+            sb.AppendLine(string.Format("Battery hourse on idle: {0}", this.PhoneBattery.HoursIdle));
+            sb.AppendLine(string.Format("Battery hourse on talk: {0}", this.PhoneBattery.HoursTalk));
+            sb.AppendLine(string.Format("Display size: {0}", this.PhoneDisplay.Size));
+            sb.AppendLine(string.Format("Display colors: {0}", this.PhoneDisplay.Colors));
+            return sb.ToString();
         }
     }
 }
