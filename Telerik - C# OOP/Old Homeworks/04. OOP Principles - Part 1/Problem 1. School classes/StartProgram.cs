@@ -19,7 +19,7 @@ namespace Problem_1.School_classes
             {
                 new Discipline()
                 {
-                    DisciplineName = "Iconomy",
+                    DisciplineName = "Еconomy",
                     NumberOfLectures = 45,
                     NumberOfExercises = 50
                 },
