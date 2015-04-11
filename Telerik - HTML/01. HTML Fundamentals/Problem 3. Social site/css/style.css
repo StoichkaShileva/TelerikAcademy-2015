@@ -1,0 +1,10 @@
+body {
+	background-color: #ADD8E6;
+}
+#doge-picture {
+	width: 150px;
+	height: 150px;
+}
+.bold {
+	font-weight: bold;
+}

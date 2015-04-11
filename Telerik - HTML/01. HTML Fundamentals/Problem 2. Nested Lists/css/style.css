@@ -1,0 +1,23 @@
+#wrapper {
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#first-type-ordered-list {
+	list-style-type: upper-roman;
+}
+.first-class-nested {
+	list-style-type: lower-latin;
+}
+.decimal-type {
+	list-style-type: decimal;
+}
+.oval-type {
+	list-style-type: circle;
+}
+.square-type {
+	list-style-type: square;
+}
+.disc-type {
+	list-style-type: disc;
+}
