@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>HTML Form</title>
+</head>
+<body>
+    <form method="post" action="">
+        <div>
+            <label>
+                Member name :
+                <input type="text" autofocus="autofocus" required="required"/>
+            </label>
+            <span><b>*req</b></span>
+        </div>
+        <div>
+            <label>
+                Email :
+                <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,6}" required="required" placeholder="example@domain.com" />
+            </label>
+            <span><b>*req</b></span>
+        </div>
+        <div>
+            <label>
+                School :
+                <input type="text" required="required" />
+            </label>
+            <span><b>*req</b></span>
+        </div>
+        <input type="image" src="Submit.jpg" height="60" />
+    </form>
+</body>
+</html>
