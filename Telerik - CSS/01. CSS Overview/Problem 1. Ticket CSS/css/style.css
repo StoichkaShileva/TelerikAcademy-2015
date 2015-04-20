@@ -1,0 +1,48 @@
+body {
+    width: 960px;
+    margin: auto;
+    color: #F3FFE5;
+}
+
+#ticket {
+    width: 350px;
+    background-color: #595959;
+}
+
+#ticket-id {
+    color: #B5A89A;
+    font-weight: normal;
+    font-family: "Palatino Linotype";
+    font-size: 1.6em;
+    padding: 0 0 0 5px;
+}
+
+.yellow-color {
+    color: #E2E38C;
+}
+
+tr > td:nth-of-type(1) {
+    font-style: italic;
+}
+
+td {
+    padding: 5px;
+}
+
+#no-active-support {
+    color: red;
+}
+.grey-colored {
+	color: grey;
+}
+#link-to-public-post {
+	text-decoration: none;
+}
+#answer-state {
+	color: #ED6D27;
+}
+#active-dot {
+	width: 10px;
+	height: 10px;
+	margin-right: 3px;
+}

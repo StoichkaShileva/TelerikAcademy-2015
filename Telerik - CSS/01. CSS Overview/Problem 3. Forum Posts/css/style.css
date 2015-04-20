@@ -1,0 +1,40 @@
+body {
+	background-color: #A9A9A9;
+	color: #FFF;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+}
+li:nth-of-type(2) > a {
+	background-color: grey;
+	opacity: 0.6;
+}
+a:hover {
+	text-decoration: underline;
+}
+header {
+	text-align: center;
+}
+ul {
+	display: inline-block;
+}
+footer {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	font-size: 2em;
+}
+p, article footer p a {
+	color: #000;
+}
+article footer {
+	font-style: italic;
+	text-align: left;
+	color: #000;
+	font-weight: normal;
+	font-size: 1em;
+}
+article header h1 {
+	text-align: left;
+}

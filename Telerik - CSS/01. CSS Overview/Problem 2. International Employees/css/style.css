@@ -1,0 +1,32 @@
+#wrapper {
+	width: 960px;
+	margin: auto;
+}
+table {
+	border-collapse: collapse;
+}
+th {
+	color: #FFF;
+	font-weight: normal;
+	text-align: left;
+}
+td, th {
+	border-right: 1px solid grey;
+}
+td:last-of-type, th:last-of-type {
+	border: none;
+}
+thead {
+	background-color: #54B706;
+}
+tr:nth-of-type(2n) > td {
+	background-color: #ECECD8;
+}
+tr,td,th {
+	padding: 1px 10px
+}
+.country-img {
+	width: 25px;
+	height: 15px;
+	padding-right: 5px;
+}
