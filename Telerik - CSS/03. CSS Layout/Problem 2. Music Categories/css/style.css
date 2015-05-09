@@ -1,0 +1,52 @@
+body {
+	font-size: 16px;
+}
+main {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#music-categories {
+	width: 500px;
+	height: 100%;
+	border-radius: 10px;
+	background-color: #EEEEEE;
+}
+#music-categories > h1 {
+	font-weight: 100;
+	font-size: 14px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+aside {
+	background-color: #FFF;
+	border: 1px solid #9D9D9D;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	width: 400px;
+    padding: 20px;
+    overflow: hidden;
+}
+aside img {
+	margin-right: 15px;
+	float: left;
+}
+aside p {
+	text-align: left;
+	font-size: 0.9rem;
+}
+aside button.styled {
+	background-image: url('../images/button.png');
+	background-repeat: no-repeat;
+	width: 80px;
+	color: #FFF;
+	outline: none;
+}
+aside button.styled:first-of-type {
+	background-image: url('../images/button.png');
+	background-repeat: no-repeat;
+	width: 80px;
+	color: #FFF;
+	margin-left: 70px;
+}

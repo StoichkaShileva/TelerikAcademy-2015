@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "font";
+	src: url("../fonts/font.ttf");
+}
+#lorem-ipsum-text {
+	color: #0094ff;
+	text-align: justify;
+}
+#first-line {
+	font-size: 1.3em;
+	font-family: "Consolas";
+	display: block;
+}
+#first-line:first-letter {
+	font-size: 200%;
+	font-family: "font";
+}

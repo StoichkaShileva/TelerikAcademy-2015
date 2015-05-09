@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator task</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="calculator">
+            <div id="upper-info">
+                <img src="images/mini-calculator.png" alt="calculator">
+                <h1 id="calculator-info">Calculator</h1>
+                <div id="upper-right-nav">
+                    <img id="nav-images" src="images/top-nav-right.png" alt="top-nav">
+                </div>
+            </div>
+            <div id="calculator-part">
+                <div id="header-of-calc">
+                    <ul id="nav-of-calc-part">
+                        <li>view</li>
+                        <li>edit</li>
+                        <li>help</li>
+                    </ul>
+                </div>
+                <div class="body-of-calc">
+                    <input type="text" id="result-box" placeholder="8854455">
+                </div>
+                <div id="second-panel" class="body-of-calc">
+                    <div id="element-for-white-border">
+                        <span class="zeroes">0000</span>
+                        <span class="zeroes">0000</span>
+                        <span class="zeroes">0000</span>
+                        <span class="zeroes">0000</span>
+                        <span class="zeroes">0000</span>
+                        <span class="zeroes">0000</span>
+                        <span class="zeroes">0000</span>
+                        <span class="zeroes">0000</span>
+                        <span id="first-value-of-second-line" class="second-line-numbers">63</span>
+                        <span id="second-value-of-second-line" class="second-line-numbers">47</span>
+                        <span id="third-value-of-second-line" class="second-line-numbers">32</span>
+                        <span id="first-value-zeroes2" class="zeroes2">0000</span>
+                        <span class="zeroes2">0000</span>
+                        <span class="zeroes2">1000</span>
+                        <span class="zeroes2">0111</span>
+                        <span class="zeroes2">0001</span>
+                        <span class="zeroes2">1011</span>
+                        <span class="zeroes2">1011</span>
+                        <span class="zeroes2">0111</span>
+                        <span id="first-value-of-second-line" class="second-line-numbers">31</span>
+                        <span id="second-value-of-second-line" class="second-line-numbers">15</span>
+                        <span id="third-value-of-third-line" class="second-line-numbers">0</span>
+                    </div>
+                </div>
+                <div class="left-aside">
+                    <input id="hex-value" type="radio" name="types">
+                    <label for="hex-value">Hex</label>
+                    <br />
+                    <input checked="checked" id="dec-value" type="radio" name="types">
+                    <label for="dec-value">Dec</label>
+                    <br />
+                    <input id="oct-value" type="radio" name="types">
+                    <label for="oct-value">Oct</label>
+                    <br />
+                    <input id="bin-value" type="radio" name="types">
+                    <label for="bin-value">Bin</label>
+                </div>
+                <br />
+                <div class="left-aside">
+                    <input checked="checked" id="qword-value" type="radio" name="types-2">
+                    <label for="qword-value">Qword</label>
+                    <br />
+                    <input id="dword-value" type="radio" name="types-2">
+                    <label for="dword-value">Dword</label>
+                    <br />
+                    <input id="word-value" type="radio" name="types-2">
+                    <label for="word-value">Word</label>
+                    <br />
+                    <input id="byte-value" type="radio" name="types-2">
+                    <label for="byte-value">Byte</label>
+                </div>
+                <div id="buttons">
+                    <button class="normal">&nbsp;</button>
+                    <button class="normal spec-half">MOD</button>
+                    <button class="normal">A</button>
+                    <button class="normal special-second">MC</button>
+                    <button class="normal">MR</button>
+                    <button class="normal">MS</button>
+                    <button class="normal">M+</button>
+                    <button class="normal">M-</button>
+                    <br />
+                    <button class="normal spec-half">(</button>
+                    <button class="normal spec-half">)</button>
+                    <button class="normal">B</button>
+                    <button class="normal">&#8592;</button>
+                    <button class="normal spec-half">CE</button>
+                    <button class="normal spec-half">C</button>
+                    <button class="normal spec-half">+-</button>
+                    <button class="normal">√</button>
+                    <br />
+                    <button class="normal spec-half">RoL</button>
+                    <button class="normal spec-half">RoR</button>
+                    <button class="normal">C</button>
+                    <button class="normal special-nums-calc">7</button>
+                    <button class="normal special-nums-calc">8</button>
+                    <button class="normal special-nums-calc">9</button>
+                    <button class="normal spec-half">/</button>
+                    <button class="normal">%</button>
+                    <br />
+                    <button class="normal spec-half">Or</button>
+                    <button class="normal spec-half">Xor</button>
+                    <button class="normal">D</button>
+                    <button class="normal special-nums-calc">4</button>
+                    <button class="normal special-nums-calc">5</button>
+                    <button class="normal special-nums-calc">6</button>
+                    <button class="normal spec-half">*</button>
+                    <button class="normal">1/x</button>
+                    <br />
+                    <button class="normal spec-half">Lsh</button>
+                    <button class="normal spec-half">Rsh</button>
+                    <button class="normal special-nums-calc">E</button>
+                    <button class="normal special-nums-calc">1</button>
+                    <button class="normal special-nums-calc">2</button>
+                    <button class="normal special-nums-calc">3</button>
+                    <button class="normal spec-half">-</button>
+                    <button class="normal equal">=</button>
+                    <br />
+                    <button class="normal spec-half">Not</button>
+                    <button class="normal spec-half">And</button>
+                    <button class="normal">F</button>
+                    <button class="normal spec-zero special-nums-calc">0</button>
+                    <button class="normal">.</button>
+                    <button class="normal spec-half">+</button>
+                    <br />
+                </div>
+            </div>
+
+        </div>
+</body>
+
+</html>
