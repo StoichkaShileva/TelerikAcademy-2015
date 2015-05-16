@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>asdf</title>
+	<style>
+		ul {
+			list-style-type: none;
+			position: relative;
+		}
+		ul > li {
+			display: inline-block;
+			padding-right: 20px;
+		}
+		ul li ul {
+			display: none;
+		}
+		ul li:hover > ul {
+			display: block;
+			position: absolute;
+		}
+	</style>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li>Home</li>
+			<li>Home
+				<ul>
+					<li>Subitem</li>
+					<li>Subitem</li>
+					<li>Subitem</li>
+					<li>Subitem</li>
+					<li>Subitem</li>
+				</ul>
+			</li>
+			<li>Home</li>
+			<li>Home</li>
+			<li>Home</li>
+		</ul>
+	</nav>
+</body>
+</html>

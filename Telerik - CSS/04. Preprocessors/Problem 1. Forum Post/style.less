@@ -1,0 +1,260 @@
+.font(@weight: normal, @size: 14px, @lineHeight: 18px) {
+    font-family: "Georgia", Times New Roman, Times, sans-serif;
+    font-size: @size;
+    font-weight: @weight;
+    line-height: @lineHeight;
+  }
+
+.horizontal-gradient(@startColor:#D791FF, @endColor:#9216F2){
+	background-color: @startColor;
+	background: -moz-linear-gradient(top,@startColor 0%,@endColor 28%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,@startColor),color-stop(28%,@endColor));
+    background: -webkit-linear-gradient(top,@startColor 0%,@endColor 28%);
+    background: -o-linear-gradient(top,@startColor 0%,@endColor 28%);
+    background: -ms-linear-gradient(top,@startColor 0%,@endColor 28%);
+    background: linear-gradient(to bottom,@startColor 0%,@endColor 28%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=@startColor,endColorstr=@endColor,GradientType=0);
+}
+@text-color:#fff;
+@background-color-reg-form-element: #b35ef3;
+@border-reg-form-element: 2px solid #bb90dc;
+@border:2px solid #551a83;
+
+
+
+html,body,div,h1,a,form,label,input,button,ul,li,header,section,article,p,footer,time,aside,h2{
+    margin: 0;
+    padding: 0;    
+} 
+body {    
+    .font;
+    color: @text-color;
+    .horizontal-gradient;    
+
+    header {
+        padding: 25px 5px 15px 15px;
+        margin-bottom: 5px;
+
+        nav {
+            zoom: 1;
+            display: inline-block;
+            width: 72%;
+            margin: 20px 20px 20px 20px;
+            padding: 12px;
+            border: @border;
+            border-radius: 15px;
+
+            ul li {
+                float: left;
+                margin: 0;
+
+                ul.sub-nav-list {
+                    zoom: 1;
+                    position: absolute;
+                    display: none;
+                    background-color: rgba(179,94,243,0.9);
+                }
+
+                a {
+                    text-decoration: none;
+                    padding: 0 10px;
+                    color: @text-color;
+                    font-size: 1.2em;
+                }
+
+                a.selected {
+                    font-weight: bold;
+                }
+
+                ul li {
+                    float: none;
+                    margin: 0 15px;
+                    padding: 10px 0;
+                    border-bottom: @border;
+                    border-radius: 15px;
+
+                    > a {
+                        font-size: 1.2em;
+                        color: @text-color;
+                    }
+                }
+
+                ul li:last-of-type {
+                    border-bottom: none;
+                }
+            }
+
+            ul li:hover > a {
+                text-decoration: underline;
+                color: #a8a8a8;
+
+                + ul {
+                    display: block;
+                }
+            }
+
+            ul.nav-list {
+                list-style-type: none;
+            }
+        }
+
+        div#header-container div#logo-container {
+            float: left;
+            position: relative;
+        }
+
+        div#header-container div#reg-form-container {
+            float: right;
+            position: relative;
+            right: 5%;
+            top: 50%;
+
+            div {
+                text-align: right;
+
+                label {
+                    font-size: 0.8em;
+                }
+
+                input {
+                    width: 130px;
+                    border: @border-reg-form-element;
+                    border-radius: 10px;
+                    padding: 2px 5px;
+                    margin: 5px;
+                    background-color: @background-color-reg-form-element;
+                }
+            }
+
+            button {
+                margin-left: auto;
+                margin-right: auto;
+                font-weight: bold;
+                border: @border-reg-form-element;
+                border-style: outset;
+                border-radius: 10px;
+                padding: 5px 8px;
+                background-color: @background-color-reg-form-element;
+                color: @text-color;
+            }
+
+            button:hover {
+                background-color: #8949b9;
+                border-style: outset;
+            }
+        }
+    }
+
+    section {
+        zoom: 1;
+        width: 75%;
+        float: left;
+        color: black;
+
+        article {
+            margin: 20px;
+            padding: 20px;
+            border: @border;
+            border-radius: 20px;
+            color: @text-color;
+
+            header {
+                background: none;
+                padding: 5px;
+
+                h1 {
+                    font-size: 1.4em;
+                    padding: 0;
+                }
+            }
+
+            footer {
+                padding: 5px;
+
+                p {
+                	text-align: right;
+                    .font;           
+                   
+                    a {
+                        text-decoration: none;
+                        color: #aaaaaa;
+                    }
+
+                    a:hover {
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+
+    aside {
+        zoom: 1;
+        float: left;
+        width: 20%;
+        margin: 20px;
+
+        > ul {
+            list-style-type: none;
+
+            > li {
+                margin: 15px 0;
+                padding: 15px;
+                border: @border;
+                border-radius: 5px;
+                padding-right: 10px;
+                width: 299px;
+
+                h2 {
+                    font-size: 1.1em;
+                    font-weight: bold;
+                }
+
+                p {
+                    margin: 10px 10px 5px 5px;
+                    font-size: 14px;
+
+                    a {
+                        color: #aaaaaa;
+                        text-decoration: none;
+                    }
+
+                    strong {
+                        color: #cccccc;
+                        font-weight: bold;
+                        font-style: normal;
+                    }
+
+                    em {
+                        color: #cccccc;
+                        font-weight: normal;
+                        font-style: italic;
+                    }
+                }
+
+                ul {
+                    list-style-type: none;
+                    
+                    li {
+                        margin: 5px;
+                        background: url(images/li-dot.png) no-repeat;
+                        background-position: 0 50%;
+                        padding-left: 25px;
+                    }
+                }
+            }
+        }
+    }
+
+    footer {
+        clear: both;
+        padding: 15px 25px 0 0;
+
+        p {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: @text-color;
+            text-align: center;
+        }
+    }
+}

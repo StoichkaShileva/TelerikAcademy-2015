@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+    font-family: "Times New Roman";
+    color: #000000;
+    font-weight: bold;
+}
+
+.avengers {
+    list-style-type: none;
+    border-bottom: 3px solid #000;
+    width: 626px;
+}
+
+.avengers > li {
+    display: inline-block;
+    border: 3px solid #000;
+    border-right: none;
+    border-bottom: none;
+    border-top-left-radius: 15px;
+    padding: 10px;
+    padding-left: 15px;
+    /*position: relative;*/
+    /*padding-right: 14px;*/
+}
+
+.avengers > li:last-of-type {
+    border-right: 3px solid #000;
+}
+
+.preview {
+    display: none;
+}
+.avengers > li:hover {
+	border-bottom: 5px solid #FFF;
+}
+.avengers > li:hover > div.preview {
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+}

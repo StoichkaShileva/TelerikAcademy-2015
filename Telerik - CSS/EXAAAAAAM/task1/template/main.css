@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 14px;
+	font-family: "Arial";
+}
+ul {
+	list-style-type: none;
+}
+ul.avengers {
+	background-color: #205D99;
+	width: 500px;
+}
+.preview {
+	display: none;
+}
+ul.avengers li > input {
+	display: none;
+}
+ul.avengers li > input[type="radio"]:checked + label {
+	font-weight: bold;
+	color: #AECFEE;
+	font-size: 24px;
+}
+ul.avengers li > input[type="radio"]:checked + label + div{
+	display: block;
+}
+ul.avengers li > label {
+	display: block;
+	text-align: center;
+	font-size: 21px;
+	padding: 15px 0;
+	color: #E4EFF9;
+}
+ul.avengers li {
+	border-bottom: 3px solid #79AEE3;
+}
+.preview {
+	padding: 15px;
+}
+.preview img {
+	width: 200px;
+	height: 112px;
+	float: left;
+	border: 15px solid #79AEE3;
+	border-radius: 15px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.preview p {
+	color: #E4EFF9;
+	text-align: justify;
+}
