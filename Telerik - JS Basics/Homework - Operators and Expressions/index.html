@@ -59,7 +59,7 @@ function calculateRectangleArea(value1, value2) {
         </div>
         <a href="#" id="fourth-task" class="button red"><span>✓</span>Problem 4. Third digit</a>
         <div class="result" id="result-container-fourth-task">
-            <div class="small-text">Write an expression that calculates rectangle’s area by given width and height.</div>
+            <div class="small-text">Write an expression that checks for given integer if its third digit (right-to-left) is 7.</div>
             <input type="text" id="fourth-input" placeholder="Enter value">
             <button id="button-fourth" class="mini-button">Check</button>
             <div id="display-result-fourth" class="display-result"></div>
@@ -133,7 +133,49 @@ function checkIfItsPrime(value) {
             </pre>
         </div>
         <a href="#" id="eighth-task" class="button turquoise"><span>✓</span>Problem 8. Trapezoid area</a>
+        <div class="result" id="result-container-eighth-task">
+            <div class="small-text">Write an expression that calculates trapezoid's area by given sides a and b and height h.</div>
+            <input type="text" id="a-input" placeholder="Enter A value">
+            <input type="text" id="b-input" placeholder="Enter B value">
+            <input type="text" id="h-input" placeholder="Enter H value">
+            <button id="button-eighth" class="mini-button">Check</button>
+            <div id="display-result-eighth" class="display-result"></div>
+            <button id="eighth-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="eighth-task-code" class="code-high">
+function calculateTrapezoidArea(value1, value2, value3) {
+    return ((value1 + value2) / 2) * value3;
+}
+            </pre>
+        </div>
         <a href="#" id="nineth-task" class="button purple"><span>✓</span>Problem 9.Point in Circle and outside</a>
+        <div class="result" id="result-container-nineth-task">
+            <div class="small-text">Write an expression that checks for given point P(x, y) if it is within the circle K( (1,1), 3) and out of the rectangle R(top=1, left=-1, width=6, height=2).</div>
+            <input type="text" id="x-input-problem9" placeholder="Enter X">
+            <input type="text" id="y-input-problem9" placeholder="Enter Y">
+            <button id="button-nineth" class="mini-button">Check</button>
+            <div id="display-result-nineth" class="display-result"></div>
+            <button id="nineth-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="nineth-task-code" class="code-high">
+function pointInCircleAndOutsideOfRect(x, y) {
+ var value1 = parseFloat(x);
+ var value2 = parseFloat(y);
+ var isInTheCircle = (value1 - 1) * (value1 - 1) + 
+                     (value2 - 1) * (value2 - 1) <= 3;
+ var isOutOfTheRectangle = 
+            !((value1 >= -1 && value1 <= -1 + 6) 
+            && 
+            (value2 <= 1 && value2 >= 1 - 2));
+ if (isInTheCircle == true 
+     && 
+     isOutOfTheRectangle == true) {
+     return "is";
+ }
+ else {
+     return "is NOT";
+ }
+}
+            </pre>
+        </div>
     </div>
     <script type="text/javascript" src="js/script.js"></script>
 </body>

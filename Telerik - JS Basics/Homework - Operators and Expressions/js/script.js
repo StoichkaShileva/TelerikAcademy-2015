@@ -4,6 +4,7 @@
 // Description: Write an expression that checks if given integer is odd or even.
 
 function checkEvenOrOdd(value) {
+    value = parseFloat(value);
     if (value % 2 === 0)
         return "Even";
     else
@@ -14,6 +15,7 @@ function checkEvenOrOdd(value) {
 // Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.
 
 function checkWhetherIsDivisibleBy7And5(value) {
+    value = parseFloat(value);
     if (value % 7 === 0 && value % 5 === 0) {
         return "divisible";
     } else {
@@ -25,6 +27,8 @@ function checkWhetherIsDivisibleBy7And5(value) {
 // Write an expression that calculates rectangle’s area by given width and height.
 
 function calculateRectangleArea(value1, value2) {
+    value1 = parseFloat(value1);
+    value2 = parseFloat(value2);
     return value1 * value2;
 }
 
@@ -52,6 +56,8 @@ function checkThirdBit(value) {
 /// ----- Problem 6. Point in Circle----- \\\
 //Write an expression that checks if given point P(x, y) is within a circle K(O, 5).
 function checkIfValuesAreInCircle(value1, value2) {
+    value1 = parseFloat(value1);
+    value2 = parseFloat(value2);
     var isInside = (((value1 * value1) + (value2 * value2)) < (5 * 5));
     return isInside;
 }
@@ -60,6 +66,7 @@ function checkIfValuesAreInCircle(value1, value2) {
 /// ----- Problem 7. Is prime----- \\\
 //Write an expression that checks if given positive integer number n (n ≤ 100) is prime.
 function checkIfItsPrime(value) {
+    value = parseFloat(value);
     var prime;
     if (value < 2) {
         return false;
@@ -73,7 +80,26 @@ function checkIfItsPrime(value) {
     	return true;
     }
 }
+/// ----- Problem 8. Trapezoid area----- \\\
+//Write an expression that calculates trapezoid's area by given sides a and b and height h.
+function calculateTrapezoidArea(value1, value2, value3) {
+    return ((parseInt(value1) + parseInt(value2)) / 2) * parseInt(value3);
+}
 
+/// ----- Problem 9. Point in Circle and outside Rectangle----- \\\
+//Write an expression that checks for given point P(x, y) if it is within the circle K( (1,1), 3) and out of the rectangle R(top=1, left=-1, width=6, height=2).
+function pointInCircleAndOutsideOfRect(x, y) {
+    var value1 = parseFloat(x);
+    var value2 = parseFloat(y);
+    var isInTheCircle = (value1 - 1) * (value1 - 1) + (value2 - 1) * (value2 - 1) <= 3;
+    var isOutOfTheRectangle = !((value1 >= -1 && value1 <= -1 + 6) && (value2 <= 1 && value2 >= 1 - 2));
+    if (isInTheCircle == true && isOutOfTheRectangle == true) {
+        return "is";
+    }
+    else {
+        return "is NOT";
+    }
+}
 
 // --------- Code below is only for showing the functionality via html
 var firstTask = document.getElementById('first-task');
@@ -286,4 +312,64 @@ seventhTask.addEventListener('click', function() {
     }
 });
 var eighthTask = document.getElementById('eighth-task');
+var eighthTaskViewCodeButton = document.getElementById('eighth-task-view-code');
+
+eighthTaskViewCodeButton.addEventListener('click', function() {
+    if (eighthTaskCode.style.display == "block") {
+        eighthTaskCode.style.display = "none";
+    } else {
+        eighthTaskCode.style.display = "block";
+    }
+})
+var eighthTaskCode = document.getElementById('eighth-task-code');
+var inputValueEighthTask;
+var resultContainerEighthTask = document.getElementById('result-container-eighth-task');
+var checkButtonEighth = document.getElementById('button-eighth');
+checkButtonEighth.addEventListener('click', function() {
+    inputAValue = document.getElementById('a-input').value;
+    inputBValue = document.getElementById('b-input').value;
+    inputHValue = document.getElementById('h-input').value;
+    var resultEighthTask = calculateTrapezoidArea(inputAValue, inputBValue, inputHValue);
+    var resultElement = document.getElementById("display-result-eighth");
+    resultElement.innerHTML = "Trapezoid area is " + resultEighthTask;
+    resultContainerEighthTask.insertBefore(resultElement, eighthTaskViewCodeButton);
+})
+var eighthTask = document.getElementById('eighth-task');
+eighthTask.addEventListener('click', function() {
+    if (resultContainerEighthTask.style.display == "block") {
+        resultContainerEighthTask.style.display = "none";
+    } else {
+        resultContainerEighthTask.style.display = "block";
+    }
+});
+
+
 var ninethTask = document.getElementById('nineth-task');
+var ninethTaskViewCodeButton = document.getElementById('nineth-task-view-code');
+ninethTaskViewCodeButton.addEventListener('click', function() {
+    if (ninethTaskCode.style.display == "block") {
+        ninethTaskCode.style.display = "none";
+    } else {
+        ninethTaskCode.style.display = "block";
+    }
+})
+var ninethTaskCode = document.getElementById('nineth-task-code');
+var inputValueNinethTask;
+var resultContainerNinethTask = document.getElementById('result-container-nineth-task');
+var checkButtonNineth = document.getElementById('button-nineth');
+checkButtonNineth.addEventListener('click', function() {
+    inputXValue = document.getElementById('x-input-problem9').value;
+    inputYValue = document.getElementById('y-input-problem9').value;
+    var resultNinethTask = pointInCircleAndOutsideOfRect(inputXValue, inputYValue);
+    var resultElement = document.getElementById("display-result-nineth");
+    resultElement.innerHTML = "Point with X - "+inputXValue+" and Y - "+inputYValue + " " + resultNinethTask +" inside K & outside of R.";
+    resultContainerNinethTask.insertBefore(resultElement, ninethTaskViewCodeButton);
+})
+var ninethTask = document.getElementById('nineth-task');
+ninethTask.addEventListener('click', function() {
+    if (resultContainerNinethTask.style.display == "block") {
+        resultContainerNinethTask.style.display = "none";
+    } else {
+        resultContainerNinethTask.style.display = "block";
+    }
+});
