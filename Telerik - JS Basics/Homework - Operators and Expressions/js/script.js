@@ -25,30 +25,53 @@ function checkWhetherIsDivisibleBy7And5(value) {
 // Write an expression that calculates rectangle’s area by given width and height.
 
 function calculateRectangleArea(value1, value2) {
-   	return value1 * value2;
+    return value1 * value2;
 }
 
 /// ----- Problem 4. Third digit----- \\\
 // Write an expression that checks for given integer if its third digit (right-to-left) is 7.
 function checkIfRightToLeftThirdDigitIs7(value) {
-   	var current = value.split("").reverse().join("");
-   	if(current[2] === '7') {
-   		return "is";
-   	}
-   	else {
-   		return "is not";
-   	}
-}
-/// ----- Problem 5. Third bit----- \\\
-/*Write a boolean expression for finding if the bit #3 (counting from 0) of a given integer.
-The bits are counted from right to left, starting from bit #0.
-The result of the expression should be either 1 or 0.*/
+        var current = value.split("").reverse().join("");
+        if (current[2] === '7') {
+            return "is";
+        } else {
+            return "is not";
+        }
+    }
+    /// ----- Problem 5. Third bit----- \\\
+    /*Write a boolean expression for finding if the bit #3 (counting from 0) of a given integer.
+    The bits are counted from right to left, starting from bit #0.
+    The result of the expression should be either 1 or 0.*/
 function checkThirdBit(value) {
-   	var inBinary = (value >>> 0).toString(2);
-   	inBinary = ('0000'+inBinary).slice(-16)
-   	var reversed = inBinary.split("").reverse().join("");
-   	console.log(reversed);
-   	return reversed[3];
+    var inBinary = (value >>> 0).toString(2);
+    inBinary = ('0000' + inBinary).slice(-16)
+    var reversed = inBinary.split("").reverse().join("");
+    return reversed[3];
+}
+
+/// ----- Problem 6. Point in Circle----- \\\
+//Write an expression that checks if given point P(x, y) is within a circle K(O, 5).
+function checkIfValuesAreInCircle(value1, value2) {
+    var isInside = (((value1 * value1) + (value2 * value2)) < (5 * 5));
+    return isInside;
+}
+
+
+/// ----- Problem 7. Is prime----- \\\
+//Write an expression that checks if given positive integer number n (n ≤ 100) is prime.
+function checkIfItsPrime(value) {
+    var prime;
+    if (value < 2) {
+        return false;
+    } else {
+    	prime = true;
+    	for(var i = 2; i < value; i++) {
+    		if(value % i == 0) {
+    			return false;
+    		}
+    	}
+    	return true;
+    }
 }
 
 
@@ -199,7 +222,68 @@ fifthTask.addEventListener('click', function() {
         resultContainerFifthTask.style.display = "block";
     }
 });
+
+
 var sixthTask = document.getElementById('sixth-task');
+var sixthTaskViewCodeButton = document.getElementById('sixth-task-view-code');
+var sixthTaskCode = document.getElementById('sixth-task-code');
+sixthTaskViewCodeButton.addEventListener('click', function() {
+    if (sixthTaskCode.style.display == "block") {
+        sixthTaskCode.style.display = "none";
+    } else {
+        sixthTaskCode.style.display = "block";
+    }
+})
+var sixthTask = document.getElementById('sixth-task');
+var inputValueSixthTask;
+var resultContainerSixthTask = document.getElementById('result-container-sixth-task');
+var checkButtonSixth = document.getElementById('button-sixth');
+checkButtonSixth.addEventListener('click', function() {
+    inputX = document.getElementById('x-input').value;
+    inputY = document.getElementById('y-input').value;
+    var resultSixthTask = checkIfValuesAreInCircle(inputX, inputY);
+    var resultElement = document.getElementById("display-result-sixth");
+    resultElement.innerHTML = "Are points " + inputX + " and " + inputY + " inside circle K(O, 5)? Answer: " + resultSixthTask;
+    resultContainerSixthTask.insertBefore(resultElement, sixthTaskViewCodeButton);
+})
+var sixthTask = document.getElementById('sixth-task');
+sixthTask.addEventListener('click', function() {
+    if (resultContainerSixthTask.style.display == "block") {
+        resultContainerSixthTask.style.display = "none";
+    } else {
+        resultContainerSixthTask.style.display = "block";
+    }
+});
+
+
 var seventhTask = document.getElementById('seventh-task');
+var seventhTaskViewCodeButton = document.getElementById('seventh-task-view-code');
+
+seventhTaskViewCodeButton.addEventListener('click', function() {
+    if (seventhTaskCode.style.display == "block") {
+        seventhTaskCode.style.display = "none";
+    } else {
+        seventhTaskCode.style.display = "block";
+    }
+})
+var seventhTaskCode = document.getElementById('seventh-task-code');
+var inputValueSeventhTask;
+var resultContainerSeventhTask = document.getElementById('result-container-seventh-task');
+var checkButtonSeventh = document.getElementById('button-seventh');
+checkButtonSeventh.addEventListener('click', function() {
+    seventhInputValue = document.getElementById('seventh-input').value;
+    var resultSeventhTask = checkIfItsPrime(seventhInputValue);
+    var resultElement = document.getElementById("display-result-seventh");
+    resultElement.innerHTML = "Digit " + seventhInputValue + " is " + (resultSeventhTask ? " prime" : " not prime");
+    resultContainerSeventhTask.insertBefore(resultElement, seventhTaskViewCodeButton);
+})
+var seventhTask = document.getElementById('seventh-task');
+seventhTask.addEventListener('click', function() {
+    if (resultContainerSeventhTask.style.display == "block") {
+        resultContainerSeventhTask.style.display = "none";
+    } else {
+        resultContainerSeventhTask.style.display = "block";
+    }
+});
 var eighthTask = document.getElementById('eighth-task');
 var ninethTask = document.getElementById('nineth-task');

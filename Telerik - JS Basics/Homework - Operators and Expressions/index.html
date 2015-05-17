@@ -94,7 +94,44 @@ function checkThirdBit(value) {
             </pre>
         </div>
         <a href="#" id="sixth-task" class="button turquoise"><span>✓</span>Problem 6. Point in Circle</a>
+        <div class="result" id="result-container-sixth-task">
+            <div class="small-text">Write an expression that checks if given point P(x, y) is within a circle K(O, 5).</div>
+            <input type="text" id="x-input" placeholder="Enter x">
+            <input type="text" id="y-input" placeholder="Enter y">
+            <button id="button-sixth" class="mini-button">Check</button>
+            <div id="display-result-sixth" class="display-result"></div>
+            <button id="sixth-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="sixth-task-code" class="code-high">
+function checkIfValuesAreInCircle(value1, value2) {
+ var isInside = (((value1*value1)+(value2*value2))<25);
+ return isInside;
+}
+            </pre>
+        </div>
         <a href="#" id="seventh-task" class="button red"><span>✓</span>Problem 7. Is prime</a>
+        <div class="result" id="result-container-seventh-task">
+            <div class="small-text">Write an expression that checks if given positive integer number n (n ≤ 100) is prime.</div>
+            <input type="text" id="seventh-input" placeholder="Enter value">
+            <button id="button-seventh" class="mini-button">Check</button>
+            <div id="display-result-seventh" class="display-result"></div>
+            <button id="seventh-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="seventh-task-code" class="code-high">
+function checkIfItsPrime(value) {
+    var prime;
+    if (value < 2) {
+        return false;
+    } else {
+    	prime = true;
+    	for(var i = 2; i < value; i++) {
+    		if(value % i == 0) {
+    			return false;
+    		}
+    	}
+    	return true;
+    }
+}
+            </pre>
+        </div>
         <a href="#" id="eighth-task" class="button turquoise"><span>✓</span>Problem 8. Trapezoid area</a>
         <a href="#" id="nineth-task" class="button purple"><span>✓</span>Problem 9.Point in Circle and outside</a>
     </div>
