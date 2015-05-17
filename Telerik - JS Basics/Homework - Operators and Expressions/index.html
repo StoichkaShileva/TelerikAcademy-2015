@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Operators and expressions</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>CHOOSE TASK</h1>
+    <div class="container">
+        <a href="#" id="first-task" class="button"><span>✓</span>Problem 1. Odd or Even</a>
+        <div class="result" id="result-container-first-task">
+            <div class="small-text">Description: Write an expression that checks if given integer is odd or even.</div>
+            <input type="text" id="odd-or-even" placeholder="Enter number">
+            <button id="check-whether-is-even-or-not" class="mini-button">Check</button>
+            <div id="display-result-first" class="display-result"></div>
+            <button id="first-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="first-task-code" class="code-high">
+function checkEvenOrOdd(value) {
+	if (value % 2 == 0)
+		return "Even";
+	else
+		return "Odd";
+}
+            </pre>
+        </div>
+        <a href="#" id="second-task" class="button purple"><span>✓</span>Problem 2. Divisible by 7 and 5</a>
+        <div class="result" id="result-container-second-task">
+            <div class="small-text">Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.</div>
+            <input type="text" id="divisible-input" placeholder="Enter number">
+            <button id="check-whether-is-disisible-or-not" class="mini-button">Check</button>
+            <div id="display-result-second" class="display-result"></div>
+            <button id="second-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="second-task-code" class="code-high">
+function checkWhetherIsDivisibleBy7And5(value) {
+    if (value % 7 == 0 && value % 5 == 0) {
+        return "divisible";
+    } else {
+        return "not divisible";
+    }
+}
+            </pre>
+        </div>
+        <a href="#" id="third-task" class="button turquoise"><span>✓</span>Problem 3. Rectangle area</a>
+        <div class="result" id="result-container-third-task">
+            <div class="small-text">Write an expression that calculates rectangle’s area by given width and height.</div>
+            <input type="text" id="width-input" placeholder="Enter width">
+            <input type="text" id="height-input" placeholder="Enter height">
+            <button id="button-third" class="mini-button">Check</button>
+            <div id="display-result-third" class="display-result"></div>
+            <button id="third-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="third-task-code" class="code-high">
+function calculateRectangleArea(value1, value2) {
+   	return value1 * value2;
+}
+            </pre>
+        </div>
+        <a href="#" id="fourth-task" class="button red"><span>✓</span>Problem 4. Third digit</a>
+        <div class="result" id="result-container-fourth-task">
+            <div class="small-text">Write an expression that calculates rectangle’s area by given width and height.</div>
+            <input type="text" id="fourth-input" placeholder="Enter value">
+            <button id="button-fourth" class="mini-button">Check</button>
+            <div id="display-result-fourth" class="display-result"></div>
+            <button id="fourth-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="fourth-task-code" class="code-high">
+function checkIfRightToLeftThirdDigitIs7(value) {
+   	var current = value.split("").reverse().join("");
+   	if(current[2] === '7') {
+   		return "is";
+   	}
+   	else {
+   		return "is not";
+   	}
+}
+            </pre>
+        </div>
+        <a href="#" id="fifth-task" class="button purple"><span>✓</span>Problem 5. Third bit</a>
+        <div class="result" id="result-container-fifth-task">
+            <div class="small-text">Write a boolean expression for finding if the bit #3 (counting from 0) of a given integer.</div>
+            <input type="text" id="fifth-input" placeholder="Enter value">
+            <button id="button-fifth" class="mini-button">Check</button>
+            <div id="display-result-fifth" class="display-result"></div>
+            <button id="fifth-task-view-code" class="view-code mini-button">View Code</button>
+            <pre id="fifth-task-code" class="code-high">
+function checkThirdBit(value) {
+   var inBinary = (value >>> 0).toString(2);
+   inBinary = ('0000'+inBinary).slice(-16)
+   var reversed = inBinary.split("").reverse().join("");
+   console.log(reversed);
+   return reversed[3];
+}
+            </pre>
+        </div>
+        <a href="#" id="sixth-task" class="button turquoise"><span>✓</span>Problem 6. Point in Circle</a>
+        <a href="#" id="seventh-task" class="button red"><span>✓</span>Problem 7. Is prime</a>
+        <a href="#" id="eighth-task" class="button turquoise"><span>✓</span>Problem 8. Trapezoid area</a>
+        <a href="#" id="nineth-task" class="button purple"><span>✓</span>Problem 9.Point in Circle and outside</a>
+    </div>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
