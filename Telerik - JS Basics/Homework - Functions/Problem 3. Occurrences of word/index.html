@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Numbers</title>
+    <link rel="stylesheet" href="../flat-ui.min.css">
+    <style>
+    #text {
+        width: 350px;
+        height: 300px;
+        float: left;
+    }
+    
+    #word, label {
+        margin-left: 40px;
+    }
+    </style>
+</head>
+
+<body>
+    <h1>Problem 3. Occurrences of word</h1>
+    <h2>Write a function that finds all the occurrences of wo	rd in a text.
+The search can be case sensitive or case insensitive.
+Use function overloading.</h2>
+    <textarea class="form-control" type="text" id="text" placeholder="Enter text"></textarea>
+    <input class="form-control" type="text" id="word" placeholder="Enter word">
+    <button class="btn btn-block btn-lg btn-success" id="print-nums-button">Print</button>
+    <br />
+    <label for="insensitive">Insensitive</label>
+    <input type="checkbox" id="insensitive" checked="checked">
+    <div id="result"></div>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
