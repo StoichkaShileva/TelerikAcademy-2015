@@ -1,12 +1,5 @@
-﻿using System.Runtime.InteropServices;
-
-namespace _01.GSM
+﻿namespace _01.GSM
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
     public class Display
     {
         private double? displaySize;

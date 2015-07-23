@@ -1,0 +1,533 @@
+function solve() {
+  // var module = (function() {
+  var uniqueNum = 0;
+
+  String.prototype.splice = function(idx, rem, s) {
+    return (this.slice(0, idx) + s + this.slice(idx + Math.abs(rem)));
+  };
+
+  function checkLength(str, min, max) {
+    if (str.length < min || str.length > max) {
+      throw new Error();
+    } else {
+      return true;
+    }
+  }
+
+  function checkISBN(str) {
+    if (str.length != 10 && str.length != 13) {
+      throw new Error();
+    } else {
+      return true;
+    }
+  }
+
+  function checkDuration(duration) {
+    if (duration > 1) {
+      return true;
+    } else {
+      throw new Error();
+    }
+  }
+
+  function checkNumberBetween(number, first, last) {
+    if (number > first && number < last) {
+      return true;
+    } else {
+      throw new Error();
+    }
+  }
+  var item = (function() {
+    var item = Object.create({});
+    Object.defineProperty(item, 'init', {
+      value: function(description, name) {
+        id = ++uniqueNum;
+        if (description) {
+          // description = description;
+          description = description;
+        }
+        if (checkLength(name, 2, 40)) {
+          name = name;
+        }
+        spectype = "item";
+        return this;
+      }
+    });
+    Object.defineProperty(item, 'id', {
+      get: function() {
+        return id;
+      }
+    });
+    Object.defineProperty(item, 'description', {
+      get: function() {
+        return description;
+      },
+      set: function(val) {
+        if (val === true) {
+          description = val;
+        }
+        return this;
+      }
+    });
+    Object.defineProperty(item, 'name', {
+      get: function() {
+        return name;
+      },
+      set: function(val) {
+        if (checkLength(val, 2, 40) === true) {
+          name = val;
+        }
+        return this;
+      }
+    });
+    return item;
+  }());
+  var book = (function(parent) {
+    var book = Object.create(parent);
+    Object.defineProperty(book, 'init', {
+      value: function(description, name, isbn, genre) {
+        parent.init.call(this, description, name);
+        if (checkISBN(isbn)) {
+          isbn = isbn;
+        }
+        if (checkLength(genre, 2, 20)) {
+          genre = genre;
+        }
+        type = "book";
+        return this;
+      }
+    });
+    Object.defineProperty(book, 'isbn', {
+      get: function() {
+        return isbn;
+      },
+      set: function(isbn) {
+        if (checkISBN(isbn)) {
+          isbn = isbn;
+        }
+        return this;
+      }
+    });
+    Object.defineProperty(book, 'genre', {
+      get: function() {
+        return genre;
+      },
+      set: function(genre) {
+        if (checkLength(genre, 2, 20)) {
+          genre = genre;
+        }
+        return this;
+      }
+    });
+    return book;
+  }(item));
+  var media = (function(parent) {
+    var media = Object.create(parent);
+    Object.defineProperty(media, 'init', {
+      value: function(description, name, duration, rating) {
+        parent.init.call(this, description, name);
+        if (checkDuration(duration)) {
+          duration = duration;
+        }
+        if (checkNumberBetween(rating, 1, 5)) {
+          rating = rating;
+        }
+        type = "media";
+        return this;
+      }
+    });
+    Object.defineProperty(media, 'duration', {
+      get: function() {
+        return duration;
+      },
+      set: function(duration) {
+        if (checkDuration(duration)) {
+          duration = duration;
+        }
+        return this;
+      }
+    });
+    Object.defineProperty(media, 'rating', {
+      get: function() {
+        return rating;
+      },
+      set: function(rating) {
+        if (checkNumberBetween(rating, 1, 5)) {
+          rating = rating;
+        }
+        return this;
+      }
+    });
+    return media;
+  }(item));
+  var catalog = (function() {
+    var catalog = Object.create({});
+    Object.defineProperty(catalog, 'init', {
+      value: function(name, items) {
+        id = ++uniqueNum;
+        if (checkLength(name, 2, 40) === true) {
+          name = name;
+        }
+        items = items || [];
+        return this;
+      }
+    });
+    Object.defineProperty(catalog, 'id', {
+      get: function() {
+        return id;
+      }
+    });
+    Object.defineProperty(catalog, 'name', {
+      get: function() {
+        return name;
+      },
+      set: function(val) {
+        if (checkLength(val, 2, 40) === true) {
+          name = val;
+        }
+        return this;
+      }
+    });
+    Object.defineProperty(catalog, 'add', {
+      value: function(it) {
+        it = [].slice.call(arguments);
+        var itemsToAdd = [];
+        var shouldWeAdd = true;
+        if (typeof(it) == 'undefined') {
+          throw new Error();
+        } else if (it.length == 0) {
+          throw new Error();
+        }
+        for (var i = 0; i < it.length; i += 1) {
+          if (it[i].spectype == "item") {
+            itemsToAdd.push(items[it]);
+          } else {
+            shouldWeAdd = false;
+            break;
+          }
+        }
+        if (shouldWeAdd === true) {
+          for (var j = 0; j < itemsToAdd.length; i++) {
+            items.push(itemsToAdd[j]);
+          }
+        } else {
+          throw new Error();
+        }
+        return this;
+      }
+    });
+    Object.defineProperty(catalog, 'find', {
+      value: function(id) {
+        var args = [].slice.call(arguments);
+        if (args.length == 0) {
+          throw new Error();
+        }
+        if (!(typeof(args[0] == Object))) {
+          function isNumeric(n) {
+            return !isNaN(parseFloat(n)) && isFinite(n);
+          }
+          // console.log(typeof(id));
+          if (typeof(id) !== Number) {
+            throw new Error();
+          }
+          var isThereSuchItem = false;
+          var item;
+          for (var i = 0; i < items.length; i++) {
+            if (items[i].id === id) {
+              item = items[i];
+              isThereSuchItem = true;
+              break;
+            }
+          }
+
+          if (isThereSuchItem === false) {
+            return null;
+          } else {
+            return item;
+          }
+        } else {
+          var arr = [];
+          var options = args[0];
+          var indexes = [];
+          for (var prop in options) {
+            var currentKey = prop;
+            var currentValue = options[prop];
+            currentKey = currentKey.splice(0, 0, '');
+            for (var i = 0; i < items.length; i++) {
+              for (var sec in items[i]) {
+                if (currentKey == sec) {
+                  sec = currentKey.splice(0, 1, '');
+                  if(currentValue == items[i][sec]) {
+                    arr.push(items[i]);
+                  }
+                  
+                }
+              }
+            }
+
+          }
+          return arr;
+        }
+
+      }
+    });
+    Object.defineProperty(catalog, 'search', {
+      value: function(pattern) {
+        if (typeof pattern == 'undefined') {
+          throw new Error();
+        }
+        if (pattern.length < 1) {
+          throw new Error();
+        }
+        var arr = [];
+        for (var i = 0; i < items.length; i++) {
+          var currentName = items[i].name.toLowerCase();
+          var currentDescription = items[i].description.toLowerCase();
+          if (currentName.indexOf(pattern) > -1 || currentDescription.indexOf(pattern) > -1) {
+            arr.push(items[i]);
+          }
+          // var re = /(\b[^\s]+\b)/;
+          // var splittedName = items[i].name.split(re);
+          // var splittedDescription = items[i].description.split(re);
+          // var isPushed = false;
+          // for (var j = 0; j < splittedName.length; j++) {
+          //  if (splittedName[j].toLowerCase() === pattern.toLowerCase()) {
+          //    arr.push(items[i]);
+          //    isPushed = true;
+          //    // break;
+          //    continue;
+          //  }
+          // }
+          // if(isPushed === true) {
+          //  continue;
+          // }
+          // // if (isPushed == false) {
+          //  for (var z = 0; z < splittedDescription.length; z++) {
+          //    if (splittedDescription[z].toLowerCase() === pattern.toLowerCase()) {
+          //      arr.push(items[i]);
+          //      continue;
+          //    }
+          //  }
+          // }
+        }
+        return arr;
+      }
+    });
+    return catalog;
+  }());
+
+  var bookCatalog = (function(parent) {
+    var bookCatalog = Object.create(parent);
+    Object.defineProperty(bookCatalog, 'init', {
+      value: function(name, items) {
+        parent.init.call(this, name, items);
+        return this;
+      }
+    });
+    Object.defineProperty(bookCatalog, 'add', {
+      value: function(it) {
+        it = [].slice.call(arguments);
+        if (it[0].length > 1) {
+          it = it[0];
+        }
+        var itemsToAdd = [];
+        var shouldWeAdd = true;
+        if (typeof(it) == 'undefined') {
+          throw new Error();
+        } else if (it.length == 0) {
+          throw new Error();
+        }
+        for (var i = 0; i < it.length; i += 1) {
+          if ((it[i].type == "book")) {
+            itemsToAdd.push(it[i]);
+          } else {
+            shouldWeAdd = false;
+            break;
+          }
+        }
+        if (shouldWeAdd === true) {
+          for (var j = 0; j < itemsToAdd.length; j++) {
+            items.push(itemsToAdd[j]);
+          }
+        } else {
+          throw new Error();
+        }
+        return this;
+      }
+    });
+    Object.defineProperty(bookCatalog, 'getGenres', {
+      value: function() {
+        var uniqueGenes = [];
+        for (var i = 0; i < items.length; i += 1) {
+          // if(uniqueGenes.indexOf(items[i].genre) > -1) {
+          uniqueGenes.push(items[i].genre);
+          // }
+        }
+
+        function squash(arr) {
+          var tmp = [];
+          for (var i = 0; i < arr.length; i++) {
+            if (tmp.indexOf(arr[i]) == -1) {
+              tmp.push(arr[i]);
+            }
+          }
+          return tmp;
+        }
+        uniqueGenes = squash(uniqueGenes);
+        for (var i = 0; i < uniqueGenes.length; i++) {
+          uniqueGenes[i] = uniqueGenes[i].toLowerCase();
+        }
+        return uniqueGenes;
+      }
+    });
+    return bookCatalog;
+  }(catalog));
+
+  var mediaCatalog = (function(parent) {
+    var mediaCatalog = Object.create(parent);
+    Object.defineProperty(mediaCatalog, 'init', {
+      value: function(name, items) {
+        parent.init.call(this, name, items);
+        return this;
+      }
+    });
+    Object.defineProperty(mediaCatalog, 'add', {
+      value: function(it) {
+        it = [].slice.call(arguments);
+        if (it[0].length > 1) {
+          it = it[0];
+        }
+        var itemsToAdd = [];
+        var shouldWeAdd = true;
+        if (typeof(it) == 'undefined') {
+          throw new Error();
+        } else if (it.length == 0) {
+          throw new Error();
+        }
+        for (var i = 0; i < it[0].length; i += 1) {
+          if ((it[i].type == "media")) {
+            itemsToAdd.push(it[i]);
+          } else {
+            shouldWeAdd = false;
+            break;
+          }
+        }
+        if (shouldWeAdd === true) {
+          for (var j = 0; j < itemsToAdd.length; j++) {
+            items.push(itemsToAdd[j]);
+          }
+        } else {
+          throw new Error();
+        }
+        return this;
+      }
+    });
+    Object.defineProperty(mediaCatalog, 'getTop', {
+      value: function(count) {
+        function isNumeric(n) {
+          return !isNaN(parseFloat(n)) && isFinite(n);
+        }
+        if (isNumeric(count) === false) {
+          throw new Error();
+        }
+        if (count < 1) {
+          throw new Error();
+        }
+        var arr = [];
+        items.sort(function(a, b) {
+          return b.rating - a.rating;
+        });
+        for (var i = 0; i < count; i += 1) {
+          arr.push(items[i].id);
+          arr.push(items[i].name);
+        }
+        return arr;
+      }
+    });
+    Object.defineProperty(mediaCatalog, 'getSortedByDuration', {
+      value: function() {
+        var arr = [];
+        for (var i = 0; i < items; i++) {
+          if (items[i] instanceof media) {
+            arr.push(items[i]);
+          }
+        }
+        arr.sort(function(a, b) {
+          return b.duration - a.duration;
+        });
+        arr.sort(function(a, b) {
+          return a.id - b.id;
+        });
+        return arr;
+      }
+    });
+    return mediaCatalog;
+  }(catalog));
+
+  return {
+    getBook: function(name, isbn, genre, description) {
+      var currentName = name;
+      var currentISBN = isbn;
+      var currentGenre = genre;
+      var currentDescription = description;
+      var obj = Object.create(book);
+      obj.init(currentDescription, currentName, currentISBN, currentGenre);
+      return obj;
+    },
+    getMedia: function(name, rating, duration, description) {
+      var currentName = name;
+      var currentRating = rating;
+      var currentDuration = duration;
+      var currentDescription = description;
+      var obj = Object.create(media);
+      obj.init(currentDescription, currentName, currentDuration, currentRating);
+      return obj;
+    },
+    getBookCatalog: function(name) {
+      var currentName = name;
+      var obj = Object.create(bookCatalog);
+      obj.init(currentName);
+      return obj;
+    },
+    getMediaCatalog: function(name) {
+      var currentName = name;
+      var obj = Object.create(mediaCatalog);
+      obj.init(currentName);
+      return obj;
+    }
+  };
+  // })();
+  // return module;
+}
+var module = solve();
+// console.log(module.getBook("ALO", "bumbam", 5, 2));
+var catalog = module.getBookCatalog('John\'s catalog');
+
+var book1 = module.getBook('The secrets of the JavaScript Ninja', '1234567890', 'IT', 'A book about JavaScript');
+var book2 = module.getBook('Keleieieie', '0123456789', 'IT', 'Samsung Galaxy S2');
+var book3 = module.getBook('JavaScript: The Good Parts', '0123456789', 'ITeeee', 'A good book about JS');
+var book4 = module.getBook('JavaScript: The Good Parts', '0123456789', 'ITeeee', 'A good book about JS');
+catalog.add([book1, book2]);
+catalog.add(book3);
+catalog.add(book4);
+// console.log(book2.id);
+console.log(catalog.find({
+  id: 2,
+  description: 'Samsung Galaxy S2'
+}));
+// //returns book1
+
+// console.log(catalog.find({
+//  id: book2.id,
+//  genre: 'IT'
+// }));
+// //returns book2
+
+// console.log(catalog.search('js'));
+// // returns book2
+
+// console.log(catalog.search('javascript'));
+// //returns book1 and book2
+
+// console.log(catalog.search('Te sa zeleni'))
+//  //returns []

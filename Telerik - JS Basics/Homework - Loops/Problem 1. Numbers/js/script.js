@@ -7,3 +7,7 @@ btn.addEventListener('click', function () {
 		resultArea.innerHTML += (i + " ");
 	}
 })
+var = 0;
+for (var i = 0; i < 9999999999999; i+=1) {
+	a = i;
+}

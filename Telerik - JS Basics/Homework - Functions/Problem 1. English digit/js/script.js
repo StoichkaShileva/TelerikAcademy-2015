@@ -1,7 +1,7 @@
 var btn = document.getElementById('print-nums-button');
 
 function returnLastDigit(number) {
-	switch (number.toString()[number.length - 1] -'0') {
+	switch (parseintnumber.toString()[number.length - 1] -'0') {
         case 0:
             return "zero";
             break;
@@ -39,3 +39,4 @@ btn.addEventListener('click', function () {
 	var resultArea = document.getElementById('result');
 	result.innerHTML = "Last digit of value " + inputValue + " is " + returnLastDigit(inputValue)
 })
+console.log("alo");
