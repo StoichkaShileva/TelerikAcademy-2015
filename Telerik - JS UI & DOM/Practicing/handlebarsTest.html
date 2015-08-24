@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Handlebars testing..</title>
+	<style>
+		.red {
+			color: red;
+		}
+		.blue {
+			color: blue;
+		}
+	</style>
+</head>
+<body>
+	
+	<script id="script" type="text/x-invalid-js">
+
+	<ul class="{{changableColor}}">
+		{{#each listItems}}
+			{{#if isLi}}
+				<li>{{title}}</li>
+			{{else}}
+				<disc>{{title}}</disc>
+			{{/if}}
+		{{/each}}
+	</ul>
+
+	</script>
+	<script type="text/javascript" src="libs/handlebars-v3.0.3.js"></script>
+	<script type="text/javascript">
+		var html = document.getElementById('script').innerHTML;
+		var handlebars = Handlebars.compile(html);
+		var obj = {
+			changableColor: (Math.floor(Math.random() * 10) < 5 ? 'blue' : 'red'),
+			listItems: [{
+				isLi: true,
+				title: "home"
+			},{
+				isLi: false,
+				title: "forum"
+			},{
+				isLi: true,
+				title: "forum"
+			},{
+				isLi: true,
+				title: "bumlelelel"
+			}]
+		}
+		var finalHtml = handlebars(obj);
+		document.getElementsByTagName('body')[0].innerHTML += finalHtml;
+	</script>
+</body>
+</html>

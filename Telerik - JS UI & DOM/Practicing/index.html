@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <div><span>EE</span></div>
+    <div><span></span></div>
+    <div><span></span></div>
+    <script type="text/javascript" src="libs/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript">
+    	var $divs = $('div');
+    	$divs.each(function (div) {
+    		console.log($(this).text());
+    	})
+    </script>
+</body>
+
+</html>
